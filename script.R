@@ -13,3 +13,30 @@ library("readxl")
 
 #load xlsx files
 myData <- read_excel("Bibliometrix-Export-File-telemedicine-trade_journal.xlsx")
+
+#view data
+str(myData)
+
+#rename column names to make it easier to read
+install.packages("tidyverse")
+library(tidyverse)
+
+myData %>% 
+  rename(
+    AU = Authors,
+    TI = Document.Title,
+    SO = Publication.Name,
+    JI = ISO.Source.Abbreviation,
+    DT = Document.Type,
+    DE = Authors.Keywords,
+    ID = Keywords.SCOPUS.or.ISI,
+    AB = Abstract,
+    C1 = Author.Address,
+    RP = Reprint.Address,
+    CR = Cited.References,
+    TC = Times.Cited,
+    PY = Year,
+    SC = Subject.Category,
+    UT = Unique.Article.Identifier,
+    DB = Bibliographic.Database,
+  )
