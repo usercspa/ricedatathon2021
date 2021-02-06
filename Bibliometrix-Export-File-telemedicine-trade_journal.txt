@@ -1,0 +1,2113 @@
+AU             DE                ID                         C1                      CR
+
+
+
+
+                                 MOBILE DEVICES; MOBILE
+                                 TELEMEDICINE; DATA
+                                 PROCESSING; HEALTH
+                                 CARE; LAWS AND
+                                 LEGISLATION; LOCAL AREA
+                                 NETWORKS; MIDDLEWARE;
+                                 MOBILE
+                                 TELECOMMUNICATION
+                                 SYSTEMS; PATIENT
+                                 MONITORING; REGULATORY
+                                 COMPLIANCE;
+                                 TELECOMMUNICATION
+                                 NETWORKS; VOICE            DEPT. OF COMP.
+                                 ACTIVATED INPUT DEVICES;   INFORMATION SYSTEMS,
+                                 WIRELESS                   GEORGIA STATE
+                                 TELECOMMUNICATION          UNIVERSITY, UNITED
+VARSHNEY U                       SYSTEMS                    STATES
+                                                                                  BREWER, E., THE CASE FOR TECHNOLOGY IN DEVELOPING REGIONS (2005) COMPUTER, PP. 25-38. , JUNE; WW
+                                                                                  UC BERKELEY SCHOOL OF INFORMATION;; COHEN, N., WHAT WORKS: GRAMEEN TELECOM'S VILLAGE PHONES
+                                                                                  RESOURCES INSTITUTE;; ARAVIND EYE CARE SYSTEM, ANNUAL ACTIVITY REPORT: 2006-07; WWW.ARAVIND.OR
+                                                            ELECTRICAL            THROUGH 2020: IMPLICATIONS FOR THE BLINDNESS CONTROL POLICY (2001) NATIONAL MEDICAL J. INDIA, PP.
+                                                            ENGINEERING AND       ARAVIND COMPREHENSIVE EYE SURVEY (2004) BRITISH J. OPHTHALMOLOGY, PP. 1237-1241. , OCT; MURTHY, G
+                                                            COMPUTER SCIENCES     MEDICAL J. INDIA, PP. 128-134. , MAY/JUNE; FLETCHER, A.E., LOW UPTAKE OF EYE SERVICES IN RURAL INDIA: A
+                                                            (EECS) DEPARTMENT,    1399. , OCT; BALAJI, A., GONSALVES, T.A., KUMAR, R., THE CORDECT WIRELESS LOCAL LOOP (1999) PROC. 1999
+                                                            UNIVERSITY OF         POVERTY AND BLINDNESS: A SURVEY OF THE LITERATURE (2006), WWW.ICEH.ORG.UK/FILES/POVERTY_AND_B
+               INFORMATION AND                              CALIFORNIA, BERKELEY, IMPLEMENTATION OF HIGH-PERFORMANCE WI-FI-BASED LONG-DISTANCE NETWORKS (2007) PROC. 4TH USENI
+               COMMUNICATION                                CA, UNITED STATES;    SHETH, A., PACKET LOSS CHARACTERIZATION IN WI-FI-BASED LONG-DISTANCE NETWORKS (2007) PROC. 26TH
+SURANA S;PATRA TECHNOLOGIES;                                INTEL RESEARCH        BEYOND PILOTS: KEEPING RURAL WIRELESS NETWORKS ALIVE (2008) PROC. 5TH USENIX SYMP. NETWORKED
+R;NEDEVSCHI    TECHNOLOGY FOR                               BERKELEY, BERKELEY,   F., (2002) ELECTRICITY IN INDIA: PROVIDING POWER FOR THE MILLIONS, INT'L ENERGY AGENCY; GREGORY, M.
+S;BREWER E     DEVELOPMENT                                  CA, UNITED STATES     HTTP://NEWS.BBC.CO.UK/2/HI/BUSINESS/4802248.STM, 15 MA
+               BIOTELEMETRIC
+               DATA; BODY
+               NETWORK
+               SENSORS;
+               HEALTHCARE
+               MONITORING;
+               TELEMEDICINE;
+               UBIQUITOUS
+HAZEN ME       COMPUTING                                    INTELLON
+                                                                                  GARCIA, P., TRAUMA POD: A SEMI-AUTOMATED TELEROBOTIC SURGICAL SYSTEM (2009) INT'L J. MEDICAL ROBO
+                                                                                  SURGEONS (2008) THE GUARDIAN, , 26 AUG; SHARKEY, N.E., SHARKEY, A.J.C., ROBOT SURGERY AND ETHICAL
+                                                                                  WOODHEAD PUBLISHING; WEBER, R.J., SURGERY ROBOTICS (2008) DELIVERABLE D5: TECHNO-ETHICAL CASE-
+                                                                                  HTTP://ETHICBOTS.NA.INFN.IT/RESTRICTED/DOC/D5.PDF, R. CAPURRO, G. TAMBURRINI, AND J. WEBER, EDS., E
+                                                                                  (2009) ETHICS AND ROBOTICS, PP. 35-48. , R. CAPURRO AND M. NAGENBORG, EDS., IOS PRESS; DICKENS, B.M.,
+                                                                                  OF GYNECOLOGY AND OBSTETRICS, 94 (1), PP. 73-78. , DOI 10.1016/J.IJGO.2006.04.023, PII S002072920600186X; V
+                                                                                  (10), PP. E22. , DOI:10.1136/JME.2007.023952; MOORE, F.D., ETHICAL PROBLEMS SPECIAL TO SURGERY: SURGIC
+                                                                                  SURGERY, 135 (1), PP. 14-16; JOHNSON, J., ROGERS, W., INNOVATIVE SURGERY: THE ETHICAL CHALLENGES (20
+                                                                                  CONVERTS (2010) THE NEW YORK TIMES, PP. A1. , 13 FEB; (1999), WWW.FDA.GOV/OHRMS/DOCKETS/AC/99/TRAN
+                                                                                  FOR DEVICES AND RADIOLOGICAL HEALTH, SUMMARY MINUTES OF THE OPEN SESSION OF THE GENERAL AND
+                                                                                  COMPARATIVE EFFECTIVENESS OF MINIMALLY INVASIVE VS OPEN RADICAL PROSTATECTOMY (2009) JAMA, 30
+                                                                                  RADICAL RETROPUBIC PROSTATECTOMY FOR CLINICALLY LOCALIZED PROSTATE CANCER: COMPARISON OF S
+                                                                                  ROBOTIC SURGERY CLAIMS ON UNITED STATES HOSPITAL WEBSITES (2011) J. HEALTHCARE QUALITY, 33 (6), P
+                                                                                  LOW-RISK, CLINICALLY-LOCALIZED PROSTATE CANCER (2009) INST. FOR CLINICAL AND ECONOMIC REVIEW, , W
+                                                                                  SPEARS, L., (2001) INTUITIVE SURGICAL, , WWW.FDA.GOV/DOWNLOADS/ICECI/ENFORCEMENTACTIONS/WARNIN
+                                                                                  HUMAN SERVICES FOOD AND DRUG ADMINISTRATION CENTER FOR DEVICES AND RADIOLOGICAL HEALTH, WA
+                                                                                  IN INJURIES (2010) THE WALL STREET J., PP. A1. , 4 MAY; TSOUDEROS, T., REMOTE CONTROL SURGERY GROW
+               COMPUTER           ETHICS; ROBODOC;                                HTTP://ARTICLES.CHICAGOTRIBUNE.COM/2012-02-25/NEWS/CT-MET-ROBOT- 20120225_1_ROBOT-ASSISTED-INT
+               SCIENCE AND        ROBOTIC SURGERY;          DEPARTMENTO OF AI AND AND REVISION TOTAL HIP REPLACEMENT USING THE ROBODOC SYSTEM (1998) CLINICAL ORTHOPAEDICS AND
+               MEDICINE; DA VINCI SURGICAL SYSTEMS;         ROBOTICS, UNIVERSITY HTTP://ABCLOCAL.GO.COM/WLS/STORY?SECTION=NEWS/LOCAL&ID=8548618, ABC7 CHICAGO NEWS 17 FEB; KR
+               SURGICAL SYSTEM; TELESURGERY; DATA           OF SHEFFIELD, UNITED  BOTH URETERS SEVERED DURING SURGERY (2010) FOSTERS.COM, , WWW.FOSTERS.COM/APPS/PBCS.DLL/AR
+               ETHICS; PRIVACY; PRIVACY; PHILOSOPHICAL      KINGDOM; DEPARTMENT CLEVELAND CLINIC, CLAIMING DOCTORS-IN-TRAINING PERFORMED PROSTATE SURGERY THAT LEFT HIM INCO
+               ROBODOC;           ASPECTS; ROBOTICS;        OF COMPUTER SCIENCE, HTTP://BLOG.CLEVELAND.COM/METRO/2010/06/CANCER_PATIENT_SUES_CLEVELAND. HTML, 7 JUN; DONNELLY
+               ROBOTIC SURGERY; TELEMEDICINE;               UNIVERSITY OF         WWW.TELEGRAPH.CO.UK/HEALTH/HEALTHNEWS/8423891/CANCER-PATIENTS-DENIED- LASTHOPE-ROBOT-SUR
+SHARKEY        TELEMEDICINE;      TRANSPLANTATION           SHEFFIELD, UNITED     CROSSES THE ATLANTIC, , WWW.IRCAD.FR/EVENT/LINDBERGH/LINDBERGH_PRESSE_EN.PDF, ESPACE MULTIM
+N;SHARKEY A    TELESURGERY        (SURGICAL)                KINGDOM               GUIDELINES IN THE PRACTICE OF TELEMEDICINE, , WWW.WMA.NET/EN/30PUBLICATIONS/10POLICIES/20ARCHIV
+
+
+
+
+                                                                                ABRAHAM, W., ADAMSON, P., BOURGE, R., WIRELESS PULMONARY ARTERY HAEMODYNAMIC MONITORING IN C
+                                                                                BARRETT, D., THE CASE FOR TELEMONITORING (2011) HEALTH AND CARE WEEKLY, , HTTP://TINYURL.COM/C5M
+                                                                                TELEMONITORING IN PATIENTS WITH HEART FAILURE (2011) NEW ENGLAND JOURNAL OF MEDICINE, 363 (24), P
+                                                                                WSDAN BRIEFING PAPER, , THE KING'S FUND, LONDON; CLELAND, J., LOUIS, A., RIGBY, A., NONINVASIVE HOME
+                                                                                DEATH: THE TRANS-EUROPEAN NETWORK-HOME-CARE MANAGEMENT SYSTEM (TEN-HMS) STUDY (2005) JOUR
+                                                                                KNOW ABOUT LONG-TERM CONDITIONS, , HTTP://TINYURL.COM/C3UAW82, DEPARTMENT OF HEALTH, (LAST AC
+                                                                                TELEHEALTH AND TELECARE INDUSTRY, , HTTP://TINYURL.COM/CR2TEB2, DEPARTMENT OF HEALTH (LAST ACC
+                                 AGED; AMBULATORY                               OUTCOMES: LOOKING BEYOND TELEPHONE-BASED DISEASE MANAGEMENT (2012) CIRCULATION, 125 (6), PP. 8
+                                 MONITORING; ARTICLE;                           EFFECTIVE A SYSTEMATIC REVIEW AND META-ANALYSIS OF THE OUTCOMES OF STRUCTURED TELEPHONE SU
+                                 CHRONIC DISEASE;                               8323 PATIENTS: ABRIDGED COCHRANE REVIEW (2011) EUROPEAN JOURNAL OF HEART FAILURE, 13 (9), PP. 102
+                                 ELDERLY CARE; HUMAN;                           OF TELEMEDICINE AND TELECARE, , DOI:10.1258/JTT.2012.120102; (2010) PROMOTING AND SUSTAINING INDEPE
+                                 NURSE ATTITUDE; NURSING;                       ACCESSED: JULY 10 2012.); KOEHLER, F., WINKLER, S., SCHIEBER, M., IMPACT OF REMOTE TELEMEDICAL MANA
+                                 TELEMEDICINE; UNITED                           FAILURE: THE TELEMEDICAL INTERVENTIONAL MONITORING IN HEART FAILURE STUDY (2011) CIRCULATION, 12
+               LONG-TERM         KINGDOM; AGED; CHRONIC                         PULMONARY DISEASE (2011) COCHRANE DATABASE OF SYSTEMATIC REVIEWS, (7); POLISENA, J., TRAN, K., CIM
+               CONDITIONS;       DISEASE; GREAT BRITAIN;                        (2009) DIABETES, OBESITY AND METABOLISM, 11 (10), PP. 913-930; (2012) TECHNOLOGY: THE PROTEUS DIGITAL
+               REMOTE            HEALTH SERVICES FOR THE                        ACCESSED: JULY 10 2012.); ROBERTS, A., GODDEN, D., GARRETT, L., (2010) EVALUATION OF THE USE OF TELEH
+               MONITORING;       AGED; HUMANS;            FACULTY OF HEALTH AND TELEHEALTH AND TELECARE, , HTTP://TINYURL.COM/YADV7KU, ROYAL COLLEGE OF NURSING (LAST ACCESSE
+               TELECARE;         MONITORING; AMBULATORY; SOCIAL CARE,           SECONDARY CARE AND MORTALITY: FINDINGS FROM THE WHOLE SYSTEM DEMONSTRATOR CLUSTER RANDO
+               TELEHEALTH;       NURSE'S ROLE;            UNIVERSITY OF HULL,   PECINA, J., UPATISING, B., A RANDOMIZED CONTROLLED TRIAL OF TELEMONITORING IN OLDER ADULTS WITH M
+BARRETT D      TELEMONITORING    TELEMEDICINE             UNITED KINGDOM        ARCHIVES OF INTERNAL MEDICINE, 172 (10), PP. 773-77
+                                                                                 BARLOW, D.H., GORMAN, J.M., SHEAR, M.K., WOODS, S.W., COGNITIVE-BEHAVIORAL THERAPY, IMIPRAMINE, OR
+                                                                                 ASSOC, 283 (19), PP. 2529-2536; BLAZER, D., GEORGE, L.K., LANDERMAN, R., PENNYBACKER, M., MELVILLE, M.L.,
+                                                                                 ARCHIVES OF GEN. PSYCHIATRY, 42 (7), PP. 651-656; BRANTLEY, D., LANEY-CUMMINGS, K., SPIVACK, R., INNOVA
+                                                                                 DEPARTMENT OF COMMERCE, OFFICE OF TECHNOLOGY POLICY; CENTER FOR RURAL POLICY AND DEVELOPM
+                                                                                 GREATER MINNESOTA HOUSEHOLDS. ST. PETER, MINN.: CENTER FOR RURAL POLICY AND DEVELOPMENT; CR
+                                ARTICLE; HEALTH SERVICE;                         FAMILY PHYSICIANS: A STUDY USING QUALITATIVE METHODOLOGY (1997) CANADIAN J. PSYCHIATRY, 42 (9), PP
+                                HEALTH SERVICES                                  FAMILY SYSTEMS AND HEALTH, 15 (1), PP. 3-26; DELEON, P.H., ROSSOMANDO, N.P., SMEDLEY, B.D., THE FUTUR
+                                RESEARCH; HUMAN;                                 BRAY, AND M. HELDRING, EDS. WASHINGTON, D.C, AMERICAN PSYCHOLOGICAL ASSOCIATION; EGGEBEEN, D.J
+                                INTEGRATED HEALTH CARE                           COURSE (1993) J. RURAL HEALTH, 9 (2), PP. 86-98; FIELD, M.J., TELEMEDICINE: A GUIDE TO ASSESSING TELECO
+                                SYSTEM; MENTAL HEALTH                            GRAND ROUNDS: IS THERE A SHORTAGE OF PSYCHIATRISTS? (2001) PSYCHIATRIC SERVICES, 52 (12), PP. 1587
+                                SERVICE; ORGANIZATION                            RURAL PRIMARY CARE PRACTITIONERS (1998) ARCHIVES OF FAMILY MED, 7 (2), PP. 139-145; KATES, N., AND M.
+                                AND MANAGEMENT;                                  FAMILY PHYSICIANS OF CANADA JOINT WORKING GROUP. CANADIAN FAMILY PHYSICIAN 45(MAY): 2143-2144, 21
+                                PRIMARY HEALTH CARE;                             NATIONAL CHALLENGE (2003) ACADEMIC PSYCHIATRY, 27 (4), PP. 277-282; MACDANIEL, S.H., HARGROVE, D.S., B
+                                RURAL HEALTH CARE;                               PRIMARY CARE PSYCHOLOGY (2004) PRIMARY CARE PSYCHOLOGY, PP. 63-92. , R. G. FRANK, S. H. MCDANIEL, J
+                                TELEMEDICINE; UNITED                             DISTRIBUTION OF LICENSED PSYCHOLOGICAL PRACTITIONERS BY COUNTY, , WWW.PSYCHOLOGYBOARD.STA
+                                STATES; DELIVERY OF                              BOARD OF PSYCHOLOGY, AVAILABLE AT:, ACCESSED OCTOBER; MORRIS, J., (1997) PRACTICING PSYCHOLOGY
+                                HEALTH CARE; INTEGRATED;                         PSYCHOLOGICAL ASSOCIATION; NEUBERGER, N.I., PAYNE, M.E., WAKEFIELD, M., ISSUES AND OPPORTUNITIES
+                                HEALTH SERVICES NEEDS    CENTER  FOR  RURAL      PRESENTED AT RURAL HEALTH CARE AND THE INTERNET (MCLEAN, VA.) (2001) MEETING CONVENED BY THE C
+                                AND DEMAND; HUMANS;      MENTAL HEALTH           MEMORIAL FUND; AND THE OFFICE OF RURAL HEALTH OF THE UNIVERSITY OF ARIZONA; PHILBRICK, J.T., CONN
+                                MENTAL HEALTH SERVICES; STUDIES, DEPARTMENT GEN. INTERNAL MED, 11 (1), PP. 9-15; RESCHOVSKY, J.D., STAITI, A.B., ACCESS AND QUALITY: DOES RURAL AME
+              RURAL MENTAL      MINNESOTA;               OF BEHAVIORAL           PHYSICIAN MANAGEMENT PREFERENCES AND BARRIERS TO CARE FOR RURAL PATIENTS WITH DEPRESSION
+              HEALTH; RURAL     ORGANIZATIONAL CASE      SCIENCES, UNIVERSITY TELEMEDICINE NETWORK: FAIRVIEW HUB SITE STRATEGIC PLAN, , MINNEAPOLIS, MINN, UNPUBLISHED DOCUM
+DAVIS         PRIMARY CARE;     STUDIES; PRIMARY HEALTH OF MINNESOTA MEDICAL GROCHOCINSKI, V., KUPFER, D.J., TREATMENT OF MAJOR DEPRESSION WITH PSYCHOTHERAPY OR PSYCHOTH
+GL;BOULGER    TELEMEDICINE;     CARE; RURAL HEALTH       SCHOOL, 1035            DHHS, U.S., 18-9: MENTAL HEALTH AND MENTAL DISORDERS: INCREASE THE PROPORTION OF ADULT WITH ME
+JG;HOVLAND    TELEMENTAL        SERVICES; TELEMEDICINE UNIVERSITY DR., DULUTH, DEPARTMENT OF HEALTH AND HUMAN SERVICES: OFFICE OF DISEASE PREVENTION AND HEALTH PROMOTIO
+JC;HOVEN NT   HEALTH                                     MN 55812, UNITED STATES
+
+
+
+
+                                                                              BOERMA, W.G.W., GROENEWEGEN, P.P., VAN DER ZEE, J., GENERAL PRACTICE IN URBAN AND RURAL EUROPE
+                                                                              GODDEN, D.J., DUNCAN, J.L., COMMUNITY MORTALITY AFTER RUPTURED ABDOMINAL AORTIC ANEURYSM IS UN
+                                                                              1343; (1993), COUNCIL OF THE EUROPEAN UNION. COUNCIL DIRECTIVE NO. 93/104/EC CONCERNING CERTAIN A
+                                                                              WWW.INCOMESDATA.CO.UK/INFORMATION/WORKTIMEDIRECTIVE.HTM; FARMER, J., IVERSEN, L., BAIRD, G., RU
+                                HOSPITALS; LAWS AND                           FARMER, J., LAUDER, W., RICHARDS, H., SHARKEY, S., DR. JOHN HAS GONE: ASSESSING HEALTH PROFESSION
+                                LEGISLATION; PUBLIC                           MEDICINE, 57 (4), PP. 673-686; FARMER, J., HINDS, K., RICHARDS, H., GODDEN, D., ACCESS, SATISFACTION, AND
+                                POLICY; RURAL AREAS;                          EDINBURGH, SCOTLAND: SCOTTISH CENTRE FOR SOCIAL RESEARCH; GODDEN, D.J., LUDBROOK, A., MCINTYRE
+                                TELEMEDICINE; HEALTH                          ISLAND HOSPITALS (2004) RURAL AND REMOTE HEALTH, 4 (1), P. 276. , ONLINE ARTICLE; (1912), HIGHLANDS AN
+                                SERVICES; RURAL HEALTH                        TREASURY (THE DEWAR REPORT). EDINBURGH, SCOTLAND: HMSO. AVAILABLE AT: WWW.RARARI.ORG.UK/DOC
+                                CARE; HEALTH CARE;                            NORTHERN ONTARIO (2003), ONTARIO, CANADA: CENTRE FOR RURAL AND NORTHERN HEALTH RESEARCH. AV
+                                ARTICLE; CONTRACT;                            10 YEARS OF RECRUITMENT AND RETENTION OF DOCTORS IN PRIMARY HEALTH CARE SERVICES AT 70 NORTH
+                                EUROPEAN UNION;                               CONFERENCE SPONSORED BY THE REMOTE AND RURAL AREAS RESOURCE INITIATIVE (RARARI) FOR NHS SCO
+                                GENERAL PRACTICE;                             LONDON, U.K.: NHS CONFEDERATION. AVAILABLE AT: WWW.NHSCONFED.WEBHOSTER.CO.UK/DOCS/CONTRAC
+                                HEALTH CARE DELIVERY;                         DELIVERED WITH HIGH COMPLIANCE IN A REMOTE AND RURAL AREA (2004) BRITISH J. SURGERY, 91 (S1), P. 11
+                                HUMAN; RURAL HEALTH                           SURVEY OF ATTITUDES TO EHEALTH OF DOCTORS AND NURSES IN RURAL GENERAL PRACTICES IN THE UNITE
+                                CARE; STANDARD; UNITED                        USE OF DISCRETE CHOICE EXPERIMENTS TO ELICIT PREFERENCES (2001) QUALITY IN HEALTH CARE, 10 (SUPP
+                                KINGDOM; CONTRACTS;                           PATIENTS: PREVALENCE, DEVELOPMENT AND MANAGEMENT OVER 6 YEARS (1991) BRITISH J. SURGERY, 78 (9)
+                                DELIVERY OF HEALTH CARE; CENTRE FOR RURAL     REPORT) (2002), SCOTTISH EXECUTIVE. EDINBURGH, SCOTLAND: SCOTTISH EXECUTIVE. AVAILABLE AT: WWW.
+                                EUROPEAN UNION; FAMILY HEALTH, UNIVERSITY OF SCOTTISH HOUSEHOLD SURVEY. AVAILABLE AT: WWW.SCOTLAND.GOV.UK/LIBRARY5/ MRAL/ASRS-23.ASP; REL
+                                PRACTICE; GREAT BRITAIN; ABERDEEN, THE GREEN REVIEW REPORT, , SCOTTISH OFFICE DEPARTMENT OF HEALTH. CHAP. 6. EDINBURGH, SCOTLAND: THE STATIO
+                                HUMANS; RURAL HEALTH     HOUSE, INVERNESS IV2 FAIR ACCESS PROJECT (2002), INVERNESS, SCOTLAND: HIGHLAND HEALTH BOARD; CLINICAL GOVERNANCE (2
+              HEALTH; HEALTH    SERVICES                 3BL, UNITED KINGDOM  WWW.DH.GOV.UK/POLICYANDGUIDANCE/HEALTHANDSOCIALCARETOPICS/ CLINICALGOVERNANCE/FS/E
+GODDEN DJ     SERVICES; RURAL
+                                 ACUTE DISEASE; ARTICLE;
+                                 CASE REPORT;
+                                 CEREBROVASCULAR
+                                 ACCIDENT; EMERGENCY
+                                 HEALTH SERVICE; FEMALE;
+                                 FIBRINOLYTIC THERAPY;
+                                 HUMAN; METHODOLOGY;
+                                 MIDDLE AGED; NURSING;
+GIBSON                           TELEMEDICINE; UNITED
+J;FITZGERALD                     KINGDOM; ACUTE DISEASE;
+J;GIBSON                         EMERGENCY MEDICAL         UNIVERSITY OF CENTRAL (2012) NATIONAL CLINICAL GUIDELINE FOR STROKE, , TINYURL.COM/RCP-STROKE-2012, INTERCOLLEGIATE STR
+A;MCADAM                         SERVICES; FEMALE; GREAT   LANCASHIRE, UNITED    AUDIT PROGRAMME (SINAP). COMPREHENSIVE REPORT, , TINYURL.COM/RCP-SINAP, INTERCOLLEGIATE STROK
+J;LIGHTBODY     EMERGENCY        BRITAIN; HUMANS; MIDDLE   KINGDOM; LANCASHIRE DETERMINING ACCESS TO ACUTE STROKE CARE (1998) NEUROLOGY, 51, PP. 427-432; (2008) DIAGNOSIS AND IN
+L;MCLOUGHLIN    NURSING; STROKE; AGED; STROKE;             AND CUMBRIA CARDIAC NICE,NICE.ORG.UK/CG68, NATIONAL INSTITUTE FOR HEALTH AND CLINICAL EXCELLENCE, LONDON; (2008) NIH
+A;WATKINS C;DAY TELEMEDICINE;    TELEMEDICINE;             AND STROKE NETWORKS, NIH; (2007) ORGANISED INPATIENT (STROKE UNIT) CARE FOR STROKE. COCHRANE DATABASE OF SYSTEMATIC
+E               THROMBOLYSIS     THROMBOLYTIC THERAPY      UNITED KINGDOM        CD000197.PUB
+
+
+
+
+                                                                                     GREENSPAN, R., (2002) CYBERATLOS NEWSLETTER, , HTTP://CYBERATLAS.COM/RESOURCES/NEWSLETTER/AR
+                                                                                     FOREIGN DIRECT INVESTMENT IN EMERGING MARKETS: INCOME, REPATRIATIONS AND FINANCIAL VULNERABI
+                                                                                     CONTRIBUTION OF FOREIGN DIRECT INVESTMENT TO GROWTH AND STABILITY: A POST CRISIS ASEAN-5 REVIE
+                                                                                     CREATING A SEMICONDUCTOR INDUSTRY IN SINGAPORE CALIFORNIA MANAGEMENT REVIEW, 41 (2), PP. 55-78
+                                                                                     ADMINISTRATION, MARCH; MATALONI, R., YOGARSON, D., OPERATIONS OF US MULTINATIONALS (2002) SURVEY
+                                                                                     WORK AT HOME: AN EMPIRICAL INVESTIGATION OF FACTORS AFFECTING ATTITUDES TOWARDS TELEWORKIN
+                                                                                     COSTS FOR PRODUCTION WORKERS IN MANUFACTURING, , WASHINGTON, D.C; TOH, H.S., SINGAPORE AT HOM
+                                                                                     THE ECONOMIST, P. 17. , 24 JUNE; CABLE AND SATELLITE ASIA. NO COUCH POTATOES? (1997) CABLE AND SATE
+                                                                                     ELECTRONIC ENGINEERING TIMES, , 10 JUNE; (2001) BROADBAND NETWORK, , U.S. DEPARTMENT OF COMMER
+                                                                                     ECONOMIST, P. 17. , 24 JUNE; RAJ, C., SINGAPORE TO PUMP UP SMES DOING E-COMMERCE (2000) BUSINESS T
+                                                                                     S.S., EDB 50% GRANT TO AID SWITCH TO E-COMMERCE (2000) THE STRAITS TIMES, P. 71. , 12 APR; BANGSBERG
+                                                                                     PEREIRA, F., (2002) TELECOM OUTLOOK, , SEPTEMBER 11 ADDENDUM TO MILLENNIAL REPORT. JUNE INTERNA
+                                                                                     ECONOMIST, P. 17. , 24 JUNE; LI, F., RADIO/TELEVISION BROADCASTING EQUIPMENT. INDUSTRY SECTOR ANALY
+                                                                                     DATA BASE; SIMIC, T., LEE, J., MALAYSIA COMPUTER MARKET BRIEF. INTERNATIONAL TRADE ADMINISTRATION
+                                                                                     MONETARY FUND. MALAYSIA: STATISTICAL APPENDIX. COUNTRY SERIES REPORT 01/187, 25 OCT. P 8; IBID; LEG
+                                                                                     GOVERNMENT IT INFRASTRUCTURE. INTERNATIONAL MARKET INSIGHTS (1997) NATIONAL TRADE DATA BASE,
+                                                                                     INTERNATIONAL TRADE ADMINISTRATION (1997) NATIONAL TRADE DATA BASE, , US DEPARTMENT OF COMMER
+                                                                                     ADMINISTRATIVE REGION: SELECTED ISSUES. IMF COUNTRY REPORT NO 02/99, MAY P. 66; CHAN, J., ENVIRONM
+                                                                                     MANAGEMENT, 13 (5), P. 288; (2002), INTERNATIONAL MONETARY FUND. PEOPLE'S REPUBLIC OF CHINA - HONG
+                                                                                     CHAU, F., (1997) INFORMATION TECHNOLOGY OVERVIEW. INDUSTRY SECTOR ANALYSIS, , US DEPARTMENT OF
+                                                                                     C.R., MEER, S.A., INFORMATION SUPERHIGHWAY PROJECT (1998) INTERNATIONAL MARKET INSIGHTS, , US DEP
+                                                                                     TELECOMMUNICATIONS DEVELOPMENT REPORT, 1995. GENEVA, ITU; LEARY, A., (2001) TOWARDS A KNOWLEDG
+                                                           CTR. FOR TELECOM.         MIND-EXPANDING POTENTIAL, P. 52. , BUSINESS KOREA LTD, NOV; IHLWAN, M., A NATION OF DIGITAL GUINEA P
+                                                           MANAGEMENT,               OF KOREA: STATISTICAL APPENDIX. IMF STAFF COUNTRY REPORT 00/10, 15 FEB. P. 29; (2000), INTERNATIONAL
+                                                           MARSHALL SCHOOL OF        00/99, 14 AUG. P. 61; (2001) E-COMMERCE: A BRIEF OVERVIEW, , INTERNATIONAL TRADE ADMINISTRATION MAR
+                                                           BUSINESS, UNIVERSITY      HTTP://WWW.MARSHALL.USC.EDU/WEB/CTM, INTERNATIONAL ENGINEERING CONSORTIUM; NOTE; (2001) NTT L
+                                                           OF SOUTHERN               INTERNATIONAL MARKET INSIGHTS, 10 OCT; (2001) NTT LAUNCHES WORLD'S FIRST 3G CELLULAR SERVICE; BA
+                                                           CALIFORNIA, LOS           INTERNET - A MODEL FOR EUROPE?' (2002) ELECTRONIC MARKETS, 12 (1), PP. 6-113; FUNK, J., THE MOBILE INT
+                                                           ANGELES, CA 90089-0871,   DEVELOPMENTS AND POLICY IMPLICATIONS, , 26-27 SEPT; SUDA, K., (2001) BROADBAND ACCESS IN JAPAN: IMP
+                                                           UNITED STATES; CTR.       NOV; NOTE; NOTE; TANGALOS, E.G., (1994) TELEMEDICINE: AN INFORMATION HIGHWAY TO SAVE LIVES, , WRITT
+                                                           FOR TELECOM.              OVERSIGHT, COMMITTEE ON SCIENCE, SPACE AND TECHNOLOGY, U.S. HOUSE OF REPRESENTATIVES, 103TH
+                                                           MANAGEMENT, UNITED        PATIENT CARE, P. 96. , 30 MARCH; CHARLES, B., TELEMEDICINE CAN LOWER COSTS AND IMPROVE ACCESS (20
+                                                           STATES; UNIVERSITY OF     MANAGEMENT, 54 (14), P. 66; TELEMEDICINE ACTION REPORT, , HTTP://WWW.ARENTFOX.COM/TELEMED.WESTE
+                                                           SOUTHERN CALIFORNIA,      WASHINGTON, DC: CATO INSTITUTE; SANDERS, J.A.Y.H., TELEMEDICINE, 1994: CHALLENGES TO IMPLEMENTAT
+                                                           UNITED STATES; R AND D    INVESTIGATIONS AND OVERSIGHT, COMMITTEE ON SCIENCE, SPACE AND TECHNOLOGY, U.S. HOUSE OF REPR
+                                                           PROGRAMS, EUROPEAN        HTTP://PEWINTERNET.ORG/REPORTS/REPORTS.ASP?REPORT=55&SECTION= REPORTLEVEL2&RELD=LE, THE P
+FIFE E;PEREIRA F                                           UNION, UNITED STATES      JANUARY; GREENSPAN, R., (2002) SWEDES, DANES AND DUTCH LEAD EUROPEAN USAGE, , HTTP://CYBERATLA
+                                    ARTIFICIAL INTELLIGENCE;
+                                    HUMAN COMPUTER
+                                    INTERACTION; LEARNING
+                                    ALGORITHMS; LEARNING
+                                    SYSTEMS; MEDICAL
+                                    APPLICATIONS; PATIENT
+                                    REHABILITATION;                                    LANGLOIS, C., TIKU, S., PASRICHA, S., INDOOR LOCALIZATION WITH SMARTPHONES: HARNESSING THE SENSOR
+                                    SMARTPHONES; TEMPLATE      DEPARTMENT OF           LABRADO, C., STRESS DETECTION AND MANAGEMENT: A SURVEY OF WEARABLE SMART HEALTH DEVICES (201
+                                    MATCHING; BIOMEDICAL       ELECTRICAL              SYSTEMATIC REVIEW OF CLINICAL OUTCOMES, CLINICAL PROCESS, HEALTHCARE UTILIZATION AND COSTS AS
+                                    APPLICATIONS;              ENGINEERING AND         ANALYSIS VIA THE GENERAL THEORY OF MOMENTS (1980) J. OPT. SOC. AMER., 70 (8), PP. 920-930; SEKI, M., FUJ
+                                    COMPUTATIONAL COSTS;       MACHINE LEARNING,       PROC. 5TH IEEE WORKSHOP APPLICATIONS COMPUTER VISION, PP. 207-213; CHOUDHURY, A., TALUKDAR, A., S
+                                    COMPUTATIONAL              UNIVERSITY OF ROME LA   UNDER COMPLEX BACKGROUND (2014) PROC. INT. CONF. SIGNAL PROCESSING AND INTEGRATED NETWORKS
+                                    RESOURCES; GESTURE         SAPIENZA, ITALY;        POINT-TO (2013) PROC. IEEE INT. CONF. FUZZY SYSTEMS (FUZZ-IEEE), PP. 1-8. , POLYGON DISTANCE EVALUATI
+                                    SEGMENTATION; IMAGE        DEPARTMENT OF           ENVIRONMENT BASED ON PATTERN RECOGNITION (2015) MEASUREMENT, 66, PP. 62-72. , APR; SABHARA, R., LE
+                                    MOMENTS; NATURAL           INFORMATION AND         RECOGNITION (2013) SMART COMPUT. REV., 3 (3), PP. 166-173; ZHANG, D., LU, G., SHAPE-BASED IMAGE RETRIE
+                                    INTERACTIONS; REAL TIME    COMMUNICATION           XU, J., A GENERALIZED MORPHOLOGICAL SKELETON TRANSFORM USING BOTH INTERNAL AND EXTERNAL SKE
+                                    EXECUTION; SMART           ENGINEERING,            TIME SERIES PREDICTION BY NEURAL NETWORKS (2011) BIOMED. SIGNAL PROCESS. CONTROL, 6 (2), PP. 112-1
+                                    DEVICES; GESTURE           UNIVERSITY OF ROME LA   PUSHING THE LIMITS FOR MACHINE LEARNING, ARTIFICIAL INTELLIGENCE, AND COMPUTER VISION (2017) IEEE
+PANELLA M;ALTILIO
+                                    RECOGNITION                SAPIENZA, ITALY         UNCINI, A., DISTRIBUTED MUSIC CLASSIFICATION USING RANDOM VECTOR FUNCTIONAL-LINK NETS (2015) PRO
+R
+
+
+
+
+                                    ARTICLE; HUMAN;
+                                    INFORMATION                                        AMMENWERTH, E., ILLER, C., MAHLER, C., IT-ADOPTION AND THE INTERACTION OF TASK, TECHNOLOGY AND IN
+                                    DISSEMINATION;                                     MAKING, 6 (3); WWW.AUDIT-SCOTLAND.GOV.UK/DOCS/HEALTH/2011/NR_111013_TELEHEALTH.PDF, AUDIT SCOT
+                                    INFORMATION PROCESSING;                            NURSE EXECUTIVES' HANDBOOK, , BURDETT TRUST BURDETT TRUST FOR NURSING AND KING'S FUND, LONDO
+                                    INTERNET; INTERPERSONAL                            HTTP://TINYURL.COM/7T7M2YC, (LAST ACCESSED: NOVEMBER 25 2011.); EHEALTH INSIDER (2011) CHIEF CLINIC
+                                    COMMUNICATION;                                     2011.); ELEY, R., FALLON, T., SOAR, J., THE STATUS OF TRAINING AND EDUCATION IN INFORMATION AND COMP
+                                    METHODOLOGY; NATIONAL                              17 (20), PP. 2758-2767; ELEY, R., FALLON, T., SOAR, J., BARRIERS TO USE OF INFORMATION AND COMPUTER TEC
+                                    HEALTH SERVICE; NURSE;                             1151-1158; HALL, S., KULENDRAN, M., SADEK, A., VARIABILITY IN SELECTING PATIENTS TO MANAGE IN THE COM
+                                    NURSING CARE;                                      PRACTICE, 28 (4), PP. 414-421; KAHN, J., AULAKH, V., BOSWORTH, A., WHAT IT TAKES: CHARACTERISTICS OF TH
+                                    PSYCHOLOGICAL ASPECT;                              SYSTEMS DEMONSTRATOR PROGRAMME, , HTTP://TINYURL.COM/7FB2CV2, (LAST ACCESSED: 25 NOVEMBER 20
+                                    TELEMEDICINE; UNITED                               INFORMATICS SERVICE (2011) NURSING DASHBOARD, , WWW.WALES.NHS.UK/NWIS/PAGE/52796, (LAST ACCESS
+                                    KINGDOM; UTILIZATION                               KEY MESSAGES, , HTTP://TINYURL.COM/7PXYLAG, RNAO, ONTARIO, CANADA. (LAST ACCESSED: 28 OCTOBER 2
+                                    REVIEW; COMMUNICATION;                             SURVEY OF NURSES' VIEWS ABOUT IT DEVELOPMENTS IN THE NHS, , RCN, LONDON; ROYAL COLLEGE OF NUR
+                    E-HEALTH;       DATA COLLECTION; GREAT                             RCN LEARNING ZONE., , WWW.RCN.ORG.UK, AVAILABLE FOR RCN MEMBERS AT; ROYAL COLLEGE OF NURSING
+                    INFORMATICS;    BRITAIN; HUMANS;                                   NURSES REALLY FEEL ABOUT THE ELECTRONIC HEALTH RECORD SYSTEM (2009) COMPUTERS, INFORMATICS,
+                    INFORMATION AND INFORMATION                                        HEALTH RECORDS, CONSIDERATIONS FROM AN EXPERT WORKSHOP (2009) THE NUFFIELD TRUST, LONDON; S
+                    COMMUNICATION DISSEMINATION; INTERNET;                             4 (1); TECHNOLOGY INFORMATICS GUIDING EDUCATION REFORM (2009) REVOLUTIONARY LEADERSHIP DRIVIN
+                    TECHNOLOGY;     NURSES; NURSING CARE;                              COLLABORATIVE REPORT. (LAST ACCESSED: NOVEMBER 24 2011.); TECHNOLOGY INFORMATICS GUIDING EDU
+                    TELECARE;       STATE MEDICINE;                                    THE TIGER USABILITY AND CLINICAL APPLICATION DESIGN COLLABORATIVE TEAM, , HTTP://TINYURL.COM/7FZA
+WALLIS A            TELEHEALTH      TELEMEDICINE            RCN, UNITED KINGDOM        NURSING INVOLVEMENT FOR INTRODUCING NEW TECHNOLOGIES (2009) ONLINE JOURNAL OF ISSUES IN NURS
+                                       AUDEBERT, H.J., BOY, S., JANKOVITS, R., PILZ, P., IS MOBILE TELECONSULTING EQUIVALENT TO HOSPITAL-BAS
+                                       CLARANAU, S.C., KUHN, J., VATANKHAH, B., SCHENKEL, J., ICKENSTEIN, G.W., HORN, M., TELEMEDICINE FOR SA
+                                       STROKE CARE (TEMPIS) IN BAVARIA (2005) STROKE, 36 (2), PP. 287-291. , DOI 10.1161/01.STR.0000153015.57892.6
+                                       R.L., COMPARISON OF TISSUE PLASMINOGEN ACTIVATOR ADMINISTRATION MANAGEMENT BETWEEN TELESTR
+                                       INTEGRATIVE STROKE CARE IN BAVARIA/GERMANY (2006) STROKE, 37 (7), PP. 1822-1827. , DOI 10.1161/01.STR.0
+                                       BOGDAHN, U., HABERL, R.L., EFFECTS OF THE IMPLEMENTATION OF A TELEMEDICAL STROKE NETWORK: THE T
+                                       NEUROLOGY, 5 (9), PP. 742-748. , DOI 10.1016/S1474-4422(06)70527-0, PII S1474442206705270; (2010) REGIONAL P
+                                       UPDATED 31ST MARCH 2011. RETRIEVED 1ST MAY 2011 FROM:, AUSTRALIAN BUREAU OF STATISTICS; (2010) AU
+                                       INSTITUTE OF HEALTH AND WELFARE; (2010) ANZAN WORKFORCE SURVEY 2009, , AUSTRALIAN AND NEW ZEAL
+                                       CADILHAC, D.A., CARTER, R., THRIFT, A.G., DEWEY, H.M., ESTIMATING THE LONG-TERM COSTS OF ISCHEMIC AN
+                                       STROKE INCIDENCE STUDY (NEMESIS) (2009) STROKE, 40 (3), PP. 915-921; CADILHAC, D.A., DEWEY, H.M., VOS, T
+                                       FROM THE NORTH EAST MELBOURNE STROKE INCIDENCE STUDY (NEMESIS) (2010) HEALTH AND QUALITY OF L
+                                       LIMITATIONS AND ONGOING QUESTIONS IN TELEMEDICINE APPLIED TO STROKE (2009) CEREBROVASCULAR DI
+                                       MARLER, J.R., LEVINE, S.R., WALKER, M.D., COST-EFFECTIVENESS OF TISSUE PLASMINOGEN ACTIVATOR FOR A
+                                       IMPLEMENTING FUTURE STROKE THERAPIES: THE POTENTIAL OF TELEMEDICINE (2005) ANNALS OF NEUROLO
+                                       RELIABILITY OF THE NIH STROKE SCALE (1989) ARCHIVES OF NEUROLOGY, 46 (6), PP. 660-662; GOLDSTEIN, L.B
+                                       NEUROLOGISTS IN THE CONTEXT OF A CLINICAL TRIAL (1997) STROKE, 28 (2), PP. 307-310; HACKE, W., KASTE, M
+                                       STROKE (2008) THE NEW ENGLAND JOURNAL OF MEDICINE, 359 (13), PP. 1317-1329; HACKE, W., DONNAN, G., FIE
+                                       ATLANTIS, ECASS, AND NINDS RT-PA STROKE TRIALS (2004) LANCET, 363 (9411), PP. 768-774; HESS, D.C., WANG
+                                       OF A RURAL TELESTROKE NETWORK (2005) STROKE, 36 (9), PP. 2018-2020. , DOI 10.1161/01.STR.0000177534.029
+                                       PROCEEDINGS, 71 (4), PP. 420-421; KLEINDORFER, D., KISSELA, B., SCHNEIDER, A., WOO, D., ELIGIBILITY FOR RE
+                                       (2004) STROKE, 35 (2), PP. E27-E29; LEVINE, S.R., GORMAN, M., "TELESTROKE": THE APPLICATION OF TELEMEDI
+                                       RAMAN, R., FELLMAN, R., BEER, J., ZIVIN, J.A., PROSPECTIVE RELIABILITY OF THE STROKE DOC WIRELESS/SITE
+                                       HEMMEN, T., OBLER, R., EFFICACY OF SITE-INDEPENDENT TELEMEDICINE IN THE STROKE DOC TRIAL: A RANDO
+                                       CARTER, R., MIHALOPOULOS, C., THRIFT, A.G., CHAMBERS, B.R., DONNAN, G.A., DEWEY, H.M., TRIAL APPLICATIO
+                                       PRIORITY SETTING IN STROKE (2004) STROKE, 35 (5), PP. 1041-1046. , DOI 10.1161/01.STR.0000125012.36134.89; M
+                                       BELIEFS AND EXPECTATIONS REGARDING TELESTROKE (2010) STROKE, 41 (4), PP. 805-809; NAGAO, K.J., KOSC
+                                       DATA; (2010) CLINICAL GUIDELINES FOR STROKE MANAGEMENT 2010, , NATIONAL STROKE FOUNDATION, MELB
+                                       REPORT 2009, , NATIONAL STROKE FOUNDATION, MELBOURNE: NATIONAL STROKE FOUNDATION; (2009) NATIO
+                                       FOUNDATION, MELBOURNE: NATIONAL STROKE FOUNDATION; ABOUT US [INTERNET] (2011) NORTHEAST HEAL
+                                       SAVER, J.L., TIME IS BRAIN-QUANTIFIED (2006) STROKE, 37 (1), PP. 263-266; SCHWAB, S., VATANKHAH, B., KUKLA
+                                       THROMBOLYSIS IN TELEMEDICAL STROKE CARE (2007) NEUROLOGY, 69 (9), PP. 898-903. , DOI 10.1212/01.WNL.0
+                                       CHUMBLER, N.R., RECOMMENDATIONS FOR THE IMPLEMENTATION OF TELEMEDICINE WITHIN STROKE SYSTEM
+                                       2635-2660; SCHWAMM, L.H., ROSENTHAL, E.S., HIRSHBERG, A., SCHAEFER, P.W., LITTLE, E.A., KVEDAR, J.C., PET
+                                       OF ACUTE STROKE (2004) ACADEMIC EMERGENCY MEDICINE, 11 (11), PP. 1193-1197. , DOI 10.1197/J.AEM.2004.0
+                                       FOR TELEMEDICINE IN ACUTE STROKE: FEASIBILITY AND RELIABILITY OF REMOTE ADMINISTRATION OF THE NI
+                                       N., THROMBOLYSIS FOR ACUTE STROKE IN AUSTRALIA: OUTCOMES FROM THE SAFE IMPLEMENTATION OF THR
+                                       443; STURM, J.W., DEWEY, H.M., DONNAN, G.A., MACDONELL, R.A.L., MCNEIL, J.J., THRIFT, A.G., HANDICAP AFTE
+                                       NORTH EAST MELBOURNE STROKE INCIDENCE STUDY (NEMESIS) (2002) STROKE, 33 (3), PP. 762-768. , DOI 10.11
+                                       (2009) CEREBROVASCULAR DISEASES, 28 (4), PP. 323-330; TATLISUMAK, T., SOINILA, S., KASTE, M., TELESTROK
+                                       DISEASES, 27 (4 SUPPL.), PP. 21-27; TISSUE PLASMINOGEN ACTIVATOR FOR ACUTE ISCHEMIC STROKE (1995) T
+                                       DISORDERS AND STROKE RT-PA STUDY GROUP; VAN DEN BERG, J.S., DE JONG, G., WHY ISCHEMIC STROKE PA
+                                       NEUROLOGICA SCANDINAVICA, 120 (3), PP. 157-160; VYBORNY, K.M., LEGAL AND POLITICAL ISSUES FACING TEL
+                                       WALLER, J., NICHOLS III, F.T., ADAMS, R.J., HESS, D.C., REMOTE EVALUATION OF ACUTE ISCHEMIC STROKE IN R
+                                       10.1161/01.STR.0000131858.63829.6E; WANG, S., LEE, S.B., PARDUE, C., RAMSINGH, D., REMOTE EVALUATION OF
+                 ROYAL MELBOURNE
+                                       TELESTROKE (2003) STROKE, 34 (10), PP. E188-E19
+NAGAO KJ;YAN B   HOSPITAL, AUSTRALIA
+                                                        KOHN LT, CORRIGAN J, DONALDSON MS, EDS. TOERR IS HUMAN: BUILDING A SAFER HEALTH SYSTEM. COMMIT
+                                                        ACADEMIES PRESS; 2000; GUERNSEY, B.G., INGRIM, N.B., HOKANSON, J.A., PHARMACISTS' DISPENSING ACCUR
+                                                        INTELL CLIN PHARM, 17, PP. 742-746; KISTNER, U.A., KEITH, M.R., SERGEANT, K.A., ACCURACY OF DISPENSING I
+           ARTICLE; AUTOMATION;   ALLSCRIPTSMYSIS; TASK LEAPE, L.L., BATES, D.W., CULLEN, D.J., SYSTEMS ANALYSIS OF ADVERSE DRUG EVENTS. ADE PREVENTION ST
+           CLINICAL PHARMACY;     FORCE FOR EDUCATION WWW.FDA.GOV/CDER/HANDBOOK/MEDERROR.HTM, ACCESSED NOVEMBER 30, 2008; FIGGE, H.L., TRANSFORM
+           INFORMATION            AND PUBLICATIONS,     TELEPHARMACY BRINGS SAFETY TO CHEMOTHERAPY PREP ROOM, , WWW.SCRIPTPRO.COM/NEWS/PRESS-RE
+           TECHNOLOGY; MEDICATION PHARMACY INFORMATICS ERRORS IN HOSPITALS THROUGH A SYSTEMS APPROACH AND TECHNOLOGICAL INNOVATION: A PRESCRIPTIO
+           ERROR; PATIENT SAFETY; SECTION, AMERICAN     ERRORS AND POTENTIAL ADVERSE DRUG EVENTS BEFORE AND AFTER IMPLEMENTING BAR CODE TECHNOLO
+           PHARMACEUTICAL CARE;   SOCIETY OF HEALTH-    DRIVING OUT ERRORS THROUGH TIGHT INTEGRATION BETWEEN SOFTWARE AND AUTOMATION (2006) J HEALT
+           PHARMACIST; ROBOTICS;  SYSTEM PHARMACISTS, IMPLEMENTATION OF AN AUTOMATED PHARMACY CAROUSEL SYSTEM (2007) AM J HEALTH SYST PHARM, 64, P
+           TELEMEDICINE; UNITED   CLIFTON PARK, NY,     MAIL-SERVICE PHARMACY PRACTICE (2005) PHARMACOTHERAPY, 25, PP. 1629-1635; HAYES, T., RAMAN SPECT
+FIGGE HL   STATES                 UNITED STATES         CONTENT OF PHARMACEUTICAL CAPSULES WITHOUT NEEDING TO OPEN THEM, , HTTP://OPTICS.ORG/CWS/AR
+                                           TECHNICAL
+                                           COMMUNICATIONS
+                                           DEPARTMENT, CLARKSON
+                                           UNIVERSITY, POTSDAM,
+                                           NY 13676, UNITED
+DOHENY-FARINA                              STATES; UNIV. OF
+S;CALLAS                                   VERMONT COLL. OF
+PW;RICCI                                   MEDICINE, FLETCHER
+MA;CAPUTO                                  ALLEN HEALTHCARE,
+MP;AMOUR                                   BURLINGTON, VT, UNITED
+JL;ROGERS FB                               STATES
+                  ARTICLE; CHRONIC DISEASE;
+                  COST CONTROL;
+                  DIFFERENTIAL DIAGNOSIS;
+                  ECONOMICS; EQUIPMENT;
+                  HEALTH CARE QUALITY;
+                  HEALTH PERSONNEL
+                  ATTITUDE; HOSPITAL
+                  READMISSION; HUMAN;
+                  MEDICAL INFORMATICS;
+                  METHODOLOGY;
+                  MICROCOMPUTER; MOBILE
+                  PHONE; STANDARD;
+                  TELEMEDICINE; TIME TO
+                  TREATMENT; ATTITUDE OF
+                  HEALTH PERSONNEL;
+                  CELLULAR PHONE; CHRONIC
+                  DISEASE; COMPUTERS;
+                  HANDHELD; COST SAVINGS;
+                  DIAGNOSIS; DIFFERENTIAL;
+                  HUMANS; MEDICAL
+                  INFORMATICS
+                  APPLICATIONS; PATIENT
+                  READMISSION; QUALITY
+                  INDICATORS; HEALTH CARE;
+                  TELEMEDICINE; TIME-TO-
+LEVIN-EPSTEIN M   TREATMENT
+
+
+
+
+                                                                BERGER, E., TELEMEDICINE: HAS ITS TIME COME? (2010) ANNALS OF EMERGENCY, 56 (5), PP. A15-A17. , NOVEM
+                                                                CARE IN CF: PATIENTS, FAMILIES AND STAFF EXPERIENCES AND UNMET NEEDS (2011) JOURNAL OF CYSTIC FIB
+                                                                RESEARCHER: A METHODOLOGICAL APPROACH, , AUSTRALIA: OXFORD UNIVERSITY PRESS, MELBOURNE; GRA
+                                                                HAZIN, R., QADDOUMI, I., TELEONCOLOGY: CURRENT AND FUTURE APPLICATIONS FOR IMPROVING CANCER CA
+                                                                CAMPBELL, E.G., DONELAN, K., RAO, S.R., FERRIS, T.G., USE OF ELECTRONIC HEALTH RECORDS IN U. S. HOSPI
+                                                                JOHNS, S.S., MILLAR, P., LE, Q., ROUTLEY, G., SKILL SHORTAGES IN HEALTH: INNOVATIVE SOLUTIONS USING VO
+                                                                WONG, I.O.L., JOHNSTON, J.M., TIN, K.Y.K., INCENTIVES AND BARRIERS THAT INFLUENCE CLINICAL COMPUTERI
+AMBROSE                                   CENTRAL CLINICAL      MEDICAL INFORMATICS ASSOCIATION, 10 (2), PP. 201-212. , DOI 10.1197/JAMIA.M1202; SALEEM, J.J., PATTERSON
+H;BRAITHWAITE                             SCHOOL, MONASH        TO THE USE OF COMPUTERIZED CLINICAL REMINDERS (2005) JOURNAL OF THE AMERICAN MEDICAL INFORMAT
+M;WILSON J                                UNIVERSITY, AUSTRALIA BENSINK, M., ARMFIELD, N., STILLMAN, J., CAFFERY, L., TELEMEDICINE AND RURAL HEALTH CARE APPLICATION
+              AMBIENT INTELLIGENCES;
+              DIFFERENT SIZES; DRIVER
+              ASSISTANCES; E
+              COMMERCES; EMBEDDED
+              DEVICES; HUMAN
+              MEMORIES; HUMAN-
+              READABLE; HYBRID
+              SERVICES; INTELLIGENT
+              TOOLS; INTERPERSONAL
+              RELATIONS; PERSONAL
+              EXPERIENCES; PERSONAL
+              INFORMATIONS; PERSONAL
+              USE; PERVASIVE            FOUNDATION FOR
+              TECHNOLOGIES; SOCIAL      RESEARCH AND
+              INTERACTIONS; TRAFFIC     TECHNOLOGY HELLAS
+              MANAGEMENTS;              (FORTH), INSTITUTE OF
+              AUTOMOBILE DRIVERS;       COMPUTER SCIENCE        (2003) AMBIENT INTELLIGENCE: FROM VISION TO REALITY, , FTP://FTP.CORDIS.LU/PUB/IST/DOCS/ISTAG-IST2003
+              ELECTRONIC COMMERCE;      (ICS), HUMAN-COMPUTER 1STCENTURY (1991) SCIENTIFIC AMERICAN, 265 (3), PP. 66-75. , SEPTEMBER; (2003) SCIENCE AND TECHNOLOG
+              MIRRORS; TELEMEDICINE;    INTERACTION             HTTP://FORERA.JRC.EC.EUROPA.EU/DOCUMENTS/SANDT-ROADMAPPING.PDF, JRC/IPTS; ZHAI, S., BELLOTTI, V.,
+GRAMMENOS D   DIGITAL DEVICES           LABORATORY, GREECE INTERACTION, (1). , HTTP://DOI.ACM.ORG/10.1145/1057237.1057238, TOCHI 12, MARCH, 1-2; BORGES, J., L. THE AL
+                                        NASA MEDICAL
+                                        INFORMATICS AND
+                                        TECHNOLOGY
+                                        APPLICATIONS
+                                        CONSORTIUM, VIRGINIA
+                                        COMMONWEALTH
+                                        UNIVERSITY, RICHMOND,
+HARNETT B                               VA 23298, UNITED STATES
+
+
+
+
+              COMPUTER AIDED
+              DIAGNOSIS; COMPUTER
+              SOFTWARE; COST
+              EFFECTIVENESS; DATA
+              PROCESSING; HEALTH
+              CARE; IMAGE QUALITY;
+              INTERACTIVE COMPUTER
+              SYSTEMS; MARKETING;
+              NEURAL NETWORKS; REAL
+              TIME SYSTEMS; SPACE
+              RESEARCH; STORE AND
+              FORWARD SYSTEMS;
+              TELEMEDICINE; MEDICAL
+FREIHERR G    COMPUTING                MD&DI
+              ECONOMICS; HEALTH CARE
+              DELIVERY; TELEMEDICINE;
+              UNITED STATES;
+              UTILIZATION; DELIVERY OF
+              HEALTH CARE;
+              TELEMEDICINE; UNITED     PHILADELPHIA, UNITED
+CALANDRA R    STATES                   STATES
+              ADRENALIN; ANTIDOTE;
+              GLYCOPYRRONIUM
+              BROMIDE; INDACATEROL;
+              INTERFERON BETA SERINE;
+              AUTOINJECTOR; BLISTER
+              PACK; CONTINUING
+              EDUCATION; DRUG
+              DELIVERY SYSTEM; DRUG
+              PACKAGING; ELECTRONIC
+              MEDICAL RECORD; HEALTH
+              CARE DELIVERY; HEALTH
+              CARE PERSONNEL; HUMAN;
+              INTERNET; MEDICAL
+              INFORMATION; METERED
+              DOSE INHALER; MOBILE     NEW DIRECTIONS          HTTPS://EN.WIKIPEDIA.ORG/WIKI/TELEMEDICINE, ACCESSED JUNE 11TH, 2016; HTTP://WWW.WHO.INT/GOE/PUB
+              PHONE; NOTE; REMOTE      TECHNOLOGY              HTTP://WWW.AMERICANTELEMED.ORG, ACCESSED JUNE 11TH, 2016; SARNOFF, S., (1977) METHOD OF TREATIN
+              SENSING;                 CONSULTING, LLC, 1442 CARE, , US PATENT 4004577, JANUARY 25; MERCHANT, R., INAMDAR, R., QUADE, R., EFFECTIVENESS OF POPUL
+              TELECOMMUNICATION;       DRAKE LN, LANCASTER, CLINICAL TRIAL (2016) J ALLERGY CLIN IMMUNOL PRACT, 4 (3), PP. 455-463; STERN, J., SMART TAMPON? THE IN
+MONROE N      TELEMEDICINE             PA 17601, UNITED STATES DISSEMINATION OF PATIENT-SPECIFIC INFORMATION FROM DEVICES BY DEVICE MANUFACTURERS, , JUNE 10;
+                                       TAMPA, FL, UNITED
+LADIKA S                               STATES
+                                                               ROGER, V.L., GO, A.S., LLOYD-JONES, D.M., HEART DISEASE AND STROKE STATISTICS-2012 UPDATE: A REPORT
+                                                               T.G., FURLAN, A.J., GUIDELINES FOR THROMBOLYTIC THERAPY FOR ACUTE STROKE: A SUPPLEMENT TO THE G
+                                                               PP. 1167-1174. , A STATEMENT FOR HEALTHCARE PROFESSIONALS FROM A SPECIAL WRITING GROUP OF THE
+                                                               H.P., EXPANSION OF THE TIME WINDOW FOR TREATMENT OF ACUTE ISCHEMIC STROKE WITH INTRAVENOUS T
+                                                               ASSOCIATION/AMERICAN STROKE ASSOCIATION (2009) STROKE., 40, PP. 2945-2948; WANG, S., GROSS, H., LEE,
+                                                               (2004) STROKE., 35, PP. 1763-1768; (2013) TELEMEDICINE INITIATIVE USING REACH (REMOTE EVALUATION OF AC
+                  ANTICONVULSIVE AGENT;                        WWW.HEALTH.NY.GOV/PROFESSIONALS/HOSPITAL_ADMINISTRATOR/TELESTROKE/REACH.HTM, NYS DEPARTM
+                  WARFARIN;                                    INITIATIVE, , WWW.HEALTH.NY.GOV/PROFESSIONALS/HOSPITAL_ADMINISTRATOR/TELESTROKE/, NYS DEPARTM
+                  ANTICOAGULANT THERAPY;                       TELEMEDICINE., , WWW.HEALTH.NY.GOV/HEALTH_CARE/MEDICAID/PROGRAM/UPDATE/2006/SEP2006.HTM#TEL
+                  ARTICLE;                                     EXPANDED COVERAGE OF TELEMEDICINE SPECIALIST CONSULTATIONS., , WWW.HEALTH.NY.GOV/HEALTH_CA
+                  CEREBROVASCULAR                              JULY, 2010. ACCESSED NOVEMBER 24; SILVA, G.S., FARRELL, S., SHANDRA, E., THE STATUS OF TELESTROKE IN
+                  ACCIDENT; EARLY                              STROKE., 43, PP. 2078-2085; WOLF, P.A., ABBOTT, R.D., KANNEL, W.B., ATRIAL FIBRILLATION AS AN INDEPENDEN
+                  DIAGNOSIS; ELECTRONIC                        RUYBALID, R.L., UYEDA, L., AN EVALUATION OF PATIENT SELF-TESTING COMPETENCY OF PROTHROMBIN TIME
+                  PRESCRIBING; EPILEPSY;                       HOME INR STUDY (THINRS) (2010) J THROMB THROMBOLYSIS., 30, PP. 263-275. , THINRS SITE INVESTIGATORS;
+                  HOME MONITORING; HUMAN;                      ANTICOAGULANT THERAPY THROUGH PATIENT SELF-MANAGEMENT AND MANAGEMENT BY SPECIALIZED ANTI
+                  INTERNATIONAL                                163 (21), PP. 2639-2646; HENEGHAN, C., ALONSO-COELLO, P., GARCIA-ALAMINO, J.M., SELF-MONITORING OF OR
+                  NORMALIZED RATIO;                            PERUCCA, E., CLINICALLY RELEVANT DRUG INTERACTIONS WITH ANTIEPILEPTIC DRUGS (2005) BR J CLIN PHAR
+                  MEDICAL INFORMATICS;   CLINICAL INTEGRATIONS SECOND-AND THIRD-GENERATION ANTIEPILEPTIC DRUGS (2010) EXPERT REV NEUROTHER., 10, PP. 119-140; PA
+                  NEUROLOGY; RURAL AREA; ALERE ACS, WALTHAM,   PHARMACOKINETIC AND PHARMACODYNAMIC INTERACTIONS BETWEEN AEDS (2013) CLIN PHARMACOKINET., 5
+FIGGE H           TELEMEDICINE           MA, UNITED STATES     2: PHARMACOKINETIC AND PHARMACODYNAMIC INTERACTIONS BETWEEN AEDS AND DRUGS USED TO TREAT
+
+
+
+
+                  CRITICAL CARE;
+                  EMERGENCY SITUATION;
+                  HUMAN INTERVENTION;
+                  INFORMATION AND
+                  COMMUNICATION; MACHINE
+                  TO MACHINES; TREATMENT
+                  SYSTEMS; WIRELESS
+                  CONNECTIVITIES;
+                  TELEMEDICINE; PATIENT
+BODHANI A         TREATMENT
+
+
+
+
+                                                                   HELLWEG, E., E-TEXTILES COME INTO STYLE: NEXT SEASON'S SMART OUTFITS WILL BE WIRED, , HTTP://WWW.
+                                           SHRI VAISHNAV           A., STARNER, T., THE DIGITAL DOCTOR: AN EXPERIMENT IN WEARABLE TELEMEDICINE PROC. FIRST INTERNAT
+                                           INSTITUTE OF            MOLECULE AND POLYMERS, 1-4. , JOHN WILEY, NEW YORK; TAO, X., (2001) SMART FIBRES, FABRIC AND CLOTH
+JOSHI AS;SHARMA                            TECHNOLOGY AND          USE OF CONDUCTIVE TEXTILE FABRICS (2002) INTERNATIONAL CONFERENCE ON POLYMER IN TEXTILES, , AT I
+K;WAGH D;PAREEK                            SCIENCE, BAROLI,        HTTP://WWW.PRINCETON.EDU/~STURMLAB/PDFS/PUBLICATIONS/JP.121.IJHPE.PDF; HTTP://WWW.INTRACEN.OR
+D                                          INDORE, INDIA           HTTP://WWW.ASTM.ORG/CGI; HTTP://WWW.EPA.GOV/SUNWISE/ACTIONSTEPS.HTML; HTTP://WWW.KEEPMEDIA.C
+                                   POTER, K., ENCYCLOPEDIA OF CHEMICAL TECHNOLOGY, (16), PP. 72-104. , 3RD EDN; BUTLER, I., WORLDWIDE P
+                                   NEW YORK, WEST PUBLISHING CO; KAPADIA, I., IBRAHIM, I.M., (1989) WOVEN VASCULAR GRAFTS, 4 (816), P. 028
+                                   LONDON; SAYED, U., (2006) ASIAN TEXTILE JOURNAL, 15 (1). , JANUARY, 2006; (2006) THE NEWS SERVICE FOR T
+                                   TEXTILE JOURNAL, , MAY; KANNEKENS, A., (1994) JOURNAL OF COATED FABRICS, 24. , JULY, 15; ROY, V., WATER
+                                   W.G., LI, W.B., (2001) COLOR TECHNOL, U.K., 117 (12), PP. P352-P355; MORRIS, N.M., SHERMAN, F., EDWIN, A.C., (
+                                   TECHNOLOGY ON TEXTILE TECHNOLOGY AND TEXTILE INDUSTRY (1996) COPYRIGHT; STANER, T., (2001) PART
+                                   36, PP. P46-P59. , APL; PARADISO, R., GEMIGNANI, A., SCILINGO, E.P., DE, D., ROSSIMILIOR SPA AND SMARTEX S
+                                   VENKATACHALAM, A., ELECTROTEXTILES: CONCEPTS AND CHALLENGES' FUNCTIONAL TEXTILES AND APPARE
+             TEXTILE CONSULTANT,   J., (2004) COLLOIDS AND SURFACES' B: BNIOINTERFCES, 37, PP. 1-4; LI, S., LEWIS, J., (2004) POSTER IN AATCC C
+TARAFDER N   KOLKATTA, INDIA       CAVACO-PAULO, A., GIIBITZ, G.M., (2003) TEXTILE PROCESSING WITH ENZYMES, , WOODHEAD PUBLISHING, LTD
+
+
+
+
+REIDY H
+             BODY WEIGHT; DRILLING
+             CONTRACTORS; LOWER
+             COST; MEDICAL CARE; OIL
+             COMPANIES; PILOT
+             PROJECTS; REDUCED COST;
+             BLOOD PRESSURE;
+             OFFSHORE OIL WELLS;
+             PREVENTIVE MAINTENANCE;
+             TELEMEDICINE; TELEPHONE
+             SYSTEMS; VIDEO
+             CONFERENCING; OFFSHORE
+             DRILLING; DRILLING;
+             DRILLING RIG; HEALTH
+             CARE; HEALTH SERVICES;
+             INTERNET; OFFSHORE
+             ENGINEERING; OIL
+DITTRICK P   INDUSTRY; SCORPIONES
+
+
+
+
+             CORPORATE NETWORKS;
+             FIXED WIRELESS ACCESS
+             NETWORKS; SERVICE
+             PROVIDERS; VERY SMALL
+             APERTURE TERMINAL
+             (VSAT); DISTANCE
+             EDUCATION; INTERNET;
+             METROPOLITAN AREA
+             NETWORKS; RURAL AREAS;
+             TELECOMMUNICATION
+             NETWORKS;
+             TELECOMMUNICATION
+             SERVICES; TELEMEDICINE;
+             MOBILE
+             TELECOMMUNICATION         AFRICA ANALYSIS TEAM,
+PATER D      SYSTEMS                   SOUTH AFRICA
+             BANDWIDTH; DATA
+             ACQUISITION; DIGITAL
+             IMAGE STORAGE;
+             HYSTERESIS; IMAGE
+             COMPRESSION; IMAGE
+             QUALITY; INFORMATION
+             TECHNOLOGY; INTERNET;
+             MEDICAL IMAGING;
+             MICROSCOPIC
+             EXAMINATION; REAL TIME
+             SYSTEMS; IMAGE
+             ACQUISITION; REMOTE
+             IMAGING; TELEMEDICINE;    MICROSCOPY/MARKETING
+             TELEMICROSCOPY;           & EDUCATION,
+             TELEPATHOLOGY; IMAGE      SPRINGFIELD, UNITED
+FOSTER B     COMMUNICATION SYSTEMS     STATES
+
+
+
+
+ROBINSON K
+                  ASYNCHRONOUS TRANSFER
+                  MODE; COMPUTER AIDED
+                  DIAGNOSIS; COMPUTER
+                  SOFTWARE; COMPUTER
+                  WORKSTATIONS;
+                  TELECOMMUNICATION
+                  LINES; TELECONFERENCING;
+                  3D COMPUTER
+                  WORKSPACES;
+                  TELEMEDICINE;           UNIV OF BRITISH
+CAHOON P;GRANT    TELERADIOLOGY;          COLUMBIA, VANCOUVER,
+E                 COMPUTER NETWORKS       BC, CANADA
+
+
+
+
+                  ARTICLE; CHRONIC DISEASE;
+                  CLOUD COMPUTING; DRUG
+                  DELIVERY SYSTEM; DRUG
+                  INDUSTRY; HEALTH CARE
+                  DELIVERY; HEALTH CARE
+                  SYSTEM; HEALTH
+                  PROGRAM; HIGH RISK
+                  POPULATION; HUMAN;
+                  MEDICATION COMPLIANCE;
+                  ONLINE SYSTEM;           NHS UNIVERSITY
+WILLIAMS N;TUBB   TELEHEALTH;              HOSPITAL, UNITED        CUNNINGHAM, PW, THE HEALTH 202: CORONAVIRUS MEANS AMERICANS ARE FINALLY EMBRACING VIRTUAL H
+A                 TELEMEDICINE             KINGDOM                 (2005) N ENGL J MED, 353 (5), PP. 487-49
+
+
+
+
+                  ARTICLE; CLINICAL TRIAL
+                  (TOPIC); CORONAVIRUS
+                  DISEASE 2019; HUMAN;      CREDENCE
+                  INJECTION; MOBILE         MEDSYSTEMS,             LAM, WY, FRESCO, P, MEDICATION ADHERENCE MEASURES: AN OVERVIEW (2015) BIOMED RES INT, 2015, P. 21
+                  APPLICATION; PANDEMIC;    1430OBRIEN DRIVE, SUITE A SYSTEMATIC REVIEW (2018) BMJ OPEN, 8 (1), P. E016982; (2016) ESTIMATED ANNUAL PHARMACEUTICAL REVE
+                  REMOTE SENSING;           D, MENLO PARK, CA 94025,ESTIMATE PUTS COST TO DEVELOP A NEW DRUG AT $1B, ADDING TO LONG-RUNNING DEBATE (2020) BIOPHAR
+MERHIGE J         TELEMEDICINE              UNITED STATES           TRIALS FOR NEW DRUG FDA APPROVAL ARE FRACTION OF TOTAL TAB, SEPTEMBER 24; SCHWARZ, L, WOLOSH
+
+
+
+
+                  CORONAVIRUS DISEASE
+                  2019; HEALTH CARE
+                  ACCESS; HEALTH CARE
+                  COST; HEALTH CARE
+                  SYSTEM; HUMAN;
+                  MEDICATION COMPLIANCE;
+                  PANDEMIC; PATIENT
+                  MONITORING; REVIEW;
+                  TELEHEALTH;
+                  TELEMEDICINE; TREATMENT
+MONROE N          OUTCOME
+                                                                                 AL-NABHANI, Y., JALAB, H.A., WAHID, A., NOOR, R.M., ROBUST WATERMARKING ALGORITHM FOR DIGITAL IMAGE
+                                                                                 UNIVERSITY- COMPUTER AND INFORMATION SCIENCES, PP. 391-401; BURUTE, N., JANKHARIA, B., TELERADIOLO
+                                                                                 MUHAMMAD, K., SANGAIAH, A.K., YANG, P., HUANG, H., HOU, G., SECURE AND ROBUST FRAGILE WATERMARKIN
+                                                                                 INDUSTRY -CURRENT TRENDS, CHALLENGES AND SOLUTIONS SCHEME FOR MEDICAL IMAGES, PP. 10269-1027
+                                                                                 ROBUST DIGITAL IMAGE USING COEFFICIENT DIFFERENCING AND CHAOTIC ENCRYPTION (2018) IEEE ACCESS:
+                                                                                 19897; ROCEK, A., SLAVCEK, K., DOSTL, O., JAVORNKB, M., A NEW APPROACH TO FULLY-REVERSIBLE WATERMA
+                                                                                 PROCESSING AND CONTROL, PP. 44-52; THANKI, R., BORRA, S., DWIVEDI, V., BORISAGAR, K., AN EFFICIENT MED
+                                                                                 TECHNOLOGY AN INTERNATIONAL JOURNAL; FAN, T.-Y., CHAO, H.-C., CHIEU, B.-C., LOSELESS MEDICAL IMAGE W
+                                                                                 COEFFICIENT (2019) SIGNAL PROCESSING: IMAGE COMMUNICATION, PP. 174-183; ISHTIAQ, M., JAFFAR, A., A NO
+                                                                                 RESEARCH AND TECHNOLOGY, PP. 524-532; SINHA, S., SIGH, A., GUPTA, R., SIGH, S., AUTHENTICATION AND TAM
+                                                                                 COMPUTATIONAL INTELLIGENCE AND DATA SCIENCE; BADSHAH, G., WATERMARK COMPRESSION IN MEDICAL I
+                                                                                 JOURNAL OF DIGITAL IMAGING, 29 (2), PP. 216-225; SHARMA, A., SINGH, A.K., GHRERA, S.P., ROBUST AND SECU
+                                                          ELECTRONICS AND        PP. 1611-1624; SHEHAB, A., SECURE AND ROBUST FRAGILE WATERMARKING SCHEME FOR MEDICAL IMAGES (2
+                                                          COMMUNICATION          WATERMARKING FOR TELEOPHTHALMOLOGY (2016) MULTIMEDIA TOOLS AND APPLICATIONS, 75 (22), PP. 14381
+                                                          ENGINEERING            BREAKTHROUGH VISIBILITY PARAMETERS (2016) BIOMEDICAL SIGNAL PROCESSING AND CONTROL, 29, PP. 44-
+                                                          DEPARTMENT, KARUNYA WATERMARKING USING MEDICAL IMAGES (2016) MULTIMEDIA TOOLS AND APPLICATIONS75, 14, PP. 8381-8401;
+                                                          INSTITUTE OF           USING AN INTELLIGENT AND REVERSIBLE WATERMARKING TECHNIQUE (2017) APPLIED SOFT COMPUTING, 51,
+                                                          TECHNOLOGY AND         WATERMARKING SYSTEM FOR E-HEALTHCARE (2017) MULTIMEDIA TOOLS AND APPLICATIONS, 76 (8), PP. 10599
+                                                          SCIENCE, COIMBATORE, ENCRYPTION FOR TELE-HEALTH APPLICATIONS (2019) MULTIMEDIA TOOLS AND APPLICATIONS, 78 (3), PP. 3457
+                                                          INDIA; ELECTRONICS AND BASED ON DWT, DCT AND SVD FOR APPLICATION IN MEDICINE (2018) MULTIMEDIA TOOLS AND APPLICATIONS,
+                                                          COMMUNICATION          NETWORK CONTENTS USING BACK PROPAGATION NEURAL NETWORK (2018) FUTURE GENERATION COMPUTE
+                                                          ENGINEERING            SECURE TRANSMISSION OF AUTHENTICATED WATERMARKED MEDICAL IMAGES (2019) MOBILE NETWORKS AN
+                                                          DEPARTMENT, VIMAL      WATERMARKING FOR SECURE E-HEALTH (2019) MULTIMEDIA TOOLS AND APPLICATIONS, 78 (4), PP. 3911-3923;
+                                                          JYOTHI ENGINEERING     MORGAN KAUFMANN PUBLISHERS; DIXIT, A., DIXIT, R., A REVIEW ON DIGITAL IMAGE WATERMARKING TECHNIQ
+                                                          COLLEGE, CHEMPERI,     66; ABRAHAM, J., PAUL, V., AN IMPERCEPTIBLE SPATIAL DOMAIN COLOR IMAGE WATERMARKING SCHEME (2016
+                                                          INDIA; ELECTRONICS AND WATERMARKING TECHNIQUES FOR IMAGE AUTHENTICATION; KEKRE, H.B., SARODE, T., NATU, S., PERFORMAN
+                                                          ELECTRICAL             TRANSFORMS (2015) IJIGSP, 7 (4), PP. 1-18; ZHANG, M.-R., LU, C.-H., YI, K.-C., A NOVEL TRANSFORM-DOMAIN IMA
+                                                          ENGINEERING            Y.P., A NEW WATERMARKING METHOD BASED ON CHAOTIC MIXING AND SVD (2012) IMAGING SCI. J., 60 (3), PP.
+                                                          DEPARTMENT, NAME       OWNERSHIP (2002) IEEE TRANS. MULTIMED., 4 (1), PP. 121-128; GOLSHAN, F., MOHAMMADI, K., SVD-BASED DIGIT
+                                                          KARUNYA INSTITUTE OF JOURNAL, 62 (1), PP. 3-10. , JUN; WANG, Y.-R., LIN, W.-H., YANG, L., AN INTELLIGENT WATERMARKING METHOD B
+              DWT; SVD; TELE-                             TECHNOLOGY AND         W., HANG, H.-M., A FEATURE-BASED ROBUST DIGITAL IMAGE WATERMARKING SCHEME (2003) IEEE TRANS. SIG
+CHACKO        RADIOLOGY;                                  SCIENCE, COIMBATORE, USING WAVELET TREES QUANTIZATION (2011) MACHINE LEARNING AND CYBERNETICS (ICMLC), 2011 INTERNAT
+A;CHACKO S    WATERMARKING                                INDIA                  OPTIMIZATION, 4, PP. 1942-1948; BAKHSH, F.Y., MOGHADDAM, M.E., A ROBUST HDR IMAGES WATERMARKING M
+
+
+
+
+                                                                                AL-ALI, ZUALKERNAN, I., FADIALOUL, (2010) A MOBILE GPRS-SENSORS ARRAY FOR AIR POLLUTION MONITORIN
+                                                                                IEEE AN ENVIRONMENT AIR POLLUTION MONITORING SYSTEM BASED ON THE IEEE1451 STANDARD FOR LOW C
+                                                                                JAYYAB, M., AL AHDAB, S., TAJI, M., AL HAMDANI, Z., ALOUL, F., POLLUMAP: AIR POLLUTION MAPPER FOR CITIES
+                                                                                GEOSENSOR NETWORK (2008) PROC. IEEE INT. GEOSCIENCE REMOTE SENSING SYMP., 3, PP. 1370-1373; GAO,
+                                                                                EMBEDDED SYSTEM (2008) PROC. 5TH IEEE INT. SYMP. EMBEDDED COMPUTING, PP. 174-179; JAYAPRAKASH, M
+                                                                                SECURE DATA ACQUISITION FOR CLOUD-SUPPORTED INTERNET OF THINGS IN GRID CONNECTED SOLAR, WIN
+                                                         DEPT OF EEE, KARPAGAM PP. 966-981; SIVARAMKRISHNAN, M., AMUDHA, A., SIVA RAMKUMAR, M., MODULATION TECHNIQUES OF THE MAT
+                                REAL TIME SYSTEMS;       ACADEMY OF HIGHER      11 (12), PP. 1041-1053; LALITHA, B., DIVYAPRIYA, S., AMUDHA, A., EMAYAVARAMBAN, G., VIYATHUKATTUVA, SIVA
+                                MEDICAL CLINICS; MEDICAL EDUCATION, INDIA; DEPT TRANSFER TECHNIQUE AT HIGH SWITCHING FREQUENCY FOR A ELECTRIC VEHICLE BATTERY CHARGERS INTE
+                                PROCEDURES; PHYSICAL     OF EEE, KARPAGAM       S., AMUDHA, A., EMAYAVARAMBAN, G., VIYATHUKATTUVA, SIVA RAMKUMAR, M., TECHNICAL AND ECONOMICAL
+                                LIMITS; REAL-TIME DATA;  INSTITUTE OF           STATION USING SOLAR POWERED, HYDROGEN AND FUEL CELL TECHNOLOGY INTERNATIONAL JOURNAL OF P
+                                SECURITY LEVEL; STATE    TECHNOLOGY, INDIA;     SIVA RAMKUMAR, M., VIYATHUKATTUVA, NAGAVENI, P., NIVETHA, M., HYBRID BASED SMALL WIND GENERATOR
+EMAYAVARAMBAN                   TABLES; TELEMEDICINE     DEPT OF EEE, KARPAGAM PP. 605-615; SIVAKUMAR, S.P., EMAYAVARAMBAN, G., AMUDHA, A., SIVA RAMKUMAR, M., VIYATHUKATTUVA, DIV
+G;NAGARAJ     TELEMEDICINE      SYSTEMS; WELLBEING;      COLLEGE OF             APPLICATIONS IN INTERNATIONAL JOURNAL OF PSYCHOSOCIAL REHABILITATION, 23 (4), PP. 616-626; SRISANTH
+M;NALINI D    SYSTEMS           PATIENT TREATMENT        ENGINEERING, INDIA     SINGLE POWER-CONVERSION ACDC CONVERTER WITH HIGH POWER FACTOR BASED ON ZVZCS FOR DC DRIVE
+                                    CLOUDS; DIAGNOSIS;
+                                    INFORMATION
+                                    MANAGEMENT; LEARNING
+                                    ALGORITHMS; MACHINE
+                                    LEARNING; ROBOTICS;
+                                    TELEMEDICINE; WEB
+                                    SERVICES; AUTONOMIC
+                                    COMPUTING PARADIGMS;
+                                    COLLABORATIVE SERVICES;
+                                    ENGINEERING AND
+                                    COMPUTER SCIENCE;                                 ADULMAJED, B., MOHAMED, I., THOMAS, M., SHERGILL, I.S., A NEW TRAINING MODEL FOR ADULT CIRCUMCISION
+                                    PATIENT CONTROL;                                  LACUESTA, R., LLORET, J., GREEN COMMUNICATION FOR TRACKING HEART RATE WITH SMARTBANDS (2018) SE
+                                    PRIMARY HEALTHCARE;       DEPARTMENT OF           THE FIRST MACHINE OF ITS KIND (2018) IEEE ROBOTICS & AUTOMATION MAGAZINE, 25 (3), PP. 40-48; WANG, N.,
+                                    SYSTEM ARCHITECTURES;     INFORMATION             SPEECH INTERFACE FOR THE ELDERLY (2016) RECENT ADVANCES IN NONLINEAR SPEECH PROCESSING, PP. 2
+PRATHIBHA        CLOUD; IOT;        TELE-MONITORING;          TECHNOLOGY, SRI         SENTHIL KUMAR, A., KIT, G.W., DAVINCI: A CLOUD COMPUTING FRAMEWORK FOR SERVICE ROBOTS (2010) 2010
+S;AKSHAYA J;SAHILROBOTICS;          TELEMEDICINE SYSTEMS;     SAIRAM ENGINEERING      MCCORMACK, V., GUEYFFIER, F., BOUTITIE, F., FAGARD, R.H., BOISSEL, J.-P., A SCORE FOR PREDICTING RISK O
+RAM R            TELEMEDICINE       INTERNET OF THINGS        COLLEGE, CHENNAI, INDIA INDIVIDUAL PATIENT DATA FROM RANDOMISED CONTROLLED TRIALS (2001) BMJ, 323 (7304), PP. 75-8
+
+
+
+
+                                                                                      RAJEEV, V., BEHAL, M., CONGENITAL DIAPHRAGMATIC HERNIA AND MATERNAL HYPOTHYROIDISM: A CASE REP
+                                                                                      THE EGYPT NATIONAL PERINATAL/NEONATAL MORTALITY STUDY 2000. (2004) JOURNAL OF PERINATOLOGY, VO
+                                                                                      MORTALITY (2011) RANDOMISED CONTROLLED STUDY." BMJ, 342 (2), PP. D346-D346. , LUFWANYAMA NEONATAL
+                                                                                      CHLAMYDIAL INFECTION: A META-ANALYSIS STUDY. (2011) THE BRAZILIAN JOURNAL OF INFECTIOUS DISEASES
+                                                                                      EUROPEAN JOURNAL OF PUBLIC HEALTH, 23 (2), PP. 269-274; NARDOZZA, L.M.M., PERINATAL MORTALITY IN RH
+                                                                                      REPRODUCTIVE BIOLOGY, 132 (2), PP. 159-162; NASS, S.S., PREDICTORS OF NEONATAL TETANUS MORTALITY IN
+                                                                                      EPIDEMIOLOGY, 4; NEWLANDS, M., JARMAN INDEX RELATED TO POST-PERINATAL MORTALITY (1992) PUBLIC HE
+                                                                                      MORTALITY IN A DEVELOPING CITY (1987) SOCIAL SCIENCE & MEDICINE, 25 (8), PP. 889-894; SHAH, N.M., SEARC
+                                                                                      (2000) SOCIAL SCIENCE & MEDICINE, 51 (4), PP. 539-550; SHAMI, S.A., CONSANGUINITY RELATED PRENATAL AND
+                                    ECONOMIC AND SOCIAL        DEPARTMENT OF          MEDICAL GENETICS, 26 (4), PP. 267-271; TAGHIZADEH, Z., MIDWIVES' PROFESSIONAL COMPETENCY FOR PREVE
+                 CHILD MORTALITY    EFFECTS; ECONOMICS;        STATISTICS, KRISTU     (3); NAINA, K., TAYADE, S., AETIOLOGY OF PERINATAL MORTALITY-A STUDY IN A RURAL SETTING (2012) INTERN
+                 RATES; FORECAST;   FORECASTING; RURAL         JAYANTI COLLEGE,       MORTALITY IN INDONESIA (2008) BMC PUBLIC HEALTH, 8 (1); (2019) LEVELS AND TRENDS IN CHILD MORTALITY,
+                 INFANT MORTALITY   AREAS; TELEMEDICINE;       BANGALORE, 560077,     MORTALITY RATE, , (IMR) (PER 1000 LIVE BIRTHS)." NITI AAYOG, NITI.GOV.IN/CONTENT/INFANT-MORTALITY-RAT
+                 RATES; LINE OF     BEST FIT; CHILD MORTALITY; INDIA; DEPARTMENT OF   WIKIMEDIA FOUNDATION, , EN.WIKIPEDIA.ORG/WIKI; INFANT MORTALITY RATE, , WWW.WHO.INT/DATA/MATERNA
+                 BEST FIT; RURAL;   INFANT MORTALITY RATES; STATISTICS, PERIYAR       LIVE BIRTHS).-PER-1000-LIVE-BIRTHS; IMPACT OF NATIONAL RURAL HEALTH MISSION ON PERINATAL MORTALIT
+                 TREND LINES;       TREND LINES; URBAN;        UNIVERSITY, SALEM,     DATA.GOV.IN, DATA.GOV.IN/KEYWORDS/NEONATAL-MORTALITY-RATE; (2020) STATE-WISE INFANT MORTALITY R
+SEBASTIAN L;RITA URBAN              POPULATION STATISTICS      636011, INDIA          MORTALITY RATE IN INDIA-YEARLY DATA STATISTICS, , HTTPS://WWW.INDIASTAT.COM/HEALTH-DATA/16/VITAL-
+S
+                                                           CENTRE FOR ADVANCED
+                                                           COMPUTING
+                                                           TECHNOLOGY (C-ACT),
+                                                           FAKULTI TEKNOLOGI
+                                                           MAKLUMAT DAN
+                                                           KOMUNIKASI, UNIVERSITI
+                                                           TEKNIKAL MALAYSIA
+                                                           MELAKA, MALAYSIA;
+                                                           DEPARTMENT OF
+                                                           SCIENCE AND
+                                                           TECHNOLOGY, FACULTY
+                                                           OF BUSINESS
+                                                           INNOVATION AND
+                                                           TECHNOLOGY, BATU 28,
+                                                           KUALA SUNGAI BARU,
+                                                           MELAKA, MALAYSIA; DRUG
+                                                           AND HERBAL RESEARCH
+                                                           CENTRE, FACULTY OF
+                                                           PHARMACY, UNIVERSITI
+                                                           KEBANGSAAN MALAYSIA,
+                                                           JALAN RAJA MUDA ABDUL
+                                                           AZIZ, KUALA LUMPUR,
+                                                           50300, MALAYSIA; SCHOOL
+                                                           OF BIOSCIENCES AND     HAMBARAN, O.M., ABD GHANI, M.K., RAJA IKRAM, R.R., MOHD ABOOBAIDER, B., IMPLEMENTATION OF HYBRID SO
+                                  EHEALTH; MEDICAL         BIOTECHNOLOGY,         CLINIC (2015) ARPN JOURNAL OF ENGINEERING AND APPLIED SCIENCES, 10 (20), PP. 9891-9895; IKRAM, R.R.R.,
+                                  COMPUTING; MHEALTH;      UNIVERSITI KEBANGSAAN MEDICINE: A REVIEW OF FOUR TRADITIONAL MEDICINE SYSTEMS (2015) INTERNATIONAL JOURNAL OF MEDICA
+                                  TELEMEDICINE; PHYSICAL   MALAYSIA, JALAN RAJA   MALAY MEDICINE IN THE MALAYSIAN HEALTHCARE SYSTEM (2015) JOURNAL OF APPLIED SCIENCES, 15 (5), PP.
+                                  ACTIVITY; PHYSICAL       MUDA ABDUL AZIZ, KUALA INFORMATICS IN TRADITIONAL MEDICINE: A REVIEW OF FOUR TRADITIONAL MEDICINE SYSTEMS (2015) INTERN
+                                  DISABILITY; PHYSICAL     LUMPUR, 50300,         HAMBARAN, U., INTEGRATED MODERN AND TRADITIONAL MALAY MEDICINE HEALTHCARE SERVICES IN POSTN
+                                  LIMITATIONS; SELF        MALAYSIA; FACULTY OF SCIENCES, 10 (19), PP. 9002-9008; SALAHUDDIN, L., ISMAIL, Z., RAJA IKRAM, R.R., SAFE USE OF HOSPITAL INFOR
+                                  EFFICACY; SELF           MECHANICAL AND         & INFORMATION TECHNOLOGY, PP. 1-25; DOOR2DOOR DOCTOR MALAYSIA - HEALTHCARE AT YOUR DOORSTEP
+IKRAM RRR;YUN                     MANAGEMENT; SOCIAL       MANUFACTURING          HTTPS://TELEME.CO/; HTTPS://DOCTOR2U.MY/; ECOMMERCE DEFINITION - WHAT IS ECOMMERCE, , HTTPS://WW
+LP;SALAHUDDIN                     SUPPORT;                 ENGINEERING,           BE IMPLEMENTED IN REMOTE, TRADITIONAL ABORIGINAL COMMUNITIES - HOW KINSHIP IMPACTS ON RECORD
+L;ISHAK N;YAAKOB MOBILE HEALTH;   TELECONSULTATION;        UNIVERSITY MALAYSIA    VREDEVELD, T., EFFECTIVENESS OF PHYSIOTHERAPY WITH TELEREHABILITATION IN SURGICAL PATIENTS: A S
+NS;DZAHARUDIN PHYSIOTHERAPY;      TELEHEALTH; PHYSICAL     PAHANG, PEKAN, PAHANG GHANI, M.K., AB HAMID, N.R., SALAHUDDIN, L., ENABLING EHEALTH IN TRADITIONAL MEDICINE: A SYSTEMATIC R
+F;CHONG NHH      TELEMEDICINE     THERAPY                  26600, MALAYSIA        SCIENCE AND TECHNOLOGY, 13 (12), PP. 4193-420
+
+
+
+
+                                                                                   (2019) NAVIGATING THE M&A LANDSCAPE: ACHIEVING CLINICAL AND FINANCIAL OBJECTIVES, , HTTPS://INTERA
+                                                                                   POISED TO GROW AS ITS POPULARITY INCREASES AMONG PHYSICIANS AND PATIENTS (2019) HEALTHCARE FI
+                                                                                   POPULARITY-INCREASESAMONG-PHYSICIANS-AND-PATIENTS, ACCESSED JULY 25, 2019; RONTE, H., TAYLOR, K
+                                                                                   HTTPS://WWW2.DELOITTE.COM/GLOBAL/EN/PAGES/LIFE-SCIENCES-ANDHEALTHCARE/ARTICLES/MEDTECH-INTE
+                                                                                   MEDICAL DEVICES ARE TRANSFORMING HEALTH CARE; DILAURI, B., WEARABLE INJECTORS BD WEARABLE DR
+                                  ARTICLE;                                         HTTPS://DRUGDEV.COM/WEARABLE-INJECTORS-BD-WEARABLE-DRUG-DELIVERY-DEVICES-AN-ATTRACTIVE-PR
+                                  BIOCOMPATIBILITY; DRUG                           ASSOCIATION. ECONOMIC COSTS OF DIABETES IN THE U.S. IN 2017 (2018) DIABETES CARE, 41 (5), PP. 917-928.
+                                  DELIVERY SYSTEM;                                 SYSTEM. DEXCOM WEB SITE, , HTTPS://WWW.DEXCOM.COM/G6-CGM-SYSTEM.ACCESSED, JULY 9; MINIMED 670
+                                  ECONOMIC MODEL;                                  PUMPSYSTEM, MEDTRONIC WEB SITE; COMSTOCK, J., NOVO NORDISKS NEW INSULIN PENS WILL INTEGRATE W
+                                  EQUIPMENT DESIGN;                                HTTPS://WWW.MOBIHEALTHNEWS.COM/CONTENT/NOVONORDISKS-NEW-INSULIN-PENS-WILL-INTEGRATE-ABBO
+                                  HEALTH CARE COST;                                CONNECTIVITY (2019) ONDRUGDELIV, 98, PP. 54-56. , HTTPS://WWW.ONDRUGDELIVERY.COM/USER-CENTEREDD
+                                  HEALTH CARE INDUSTRY;    UNIVERSITY OF           PRODUCTION FOLLOWING BOUNTIFUL Q2 (2019) MOBIHEALTH-NEWS. JULY, 17. , HTTPS://WWW.MOBIHEALTHNE
+                                  HEALTH CARE PERSONNEL;   KENTUCKY, UNITED        BOUNTIFUL-Q2, ACCESSED JULY 18, 2019; (2019) WEARABLE INJECTORS MARKET. MARKETSANDMARKETS RES
+                                  HEALTH CARE SYSTEM;      STATES; NATIONAL        INJECTORMARKET-100771004.HTML; JANSEN, P., 2014 TO 2018: AN UPDATE ON THE STATEOF WEARABLE INJEC
+                                  HUMAN; MOISTURE;         INSTITUTE OF            ONTHE-STATE-OF-WEARABLE-INJECTORS/, SEPTEMBER, ACCESSED JULY 18, 2019; (4TH EDITION), 2018-2030. R
+CARTY N;PRAKASH                   OUTPATIENT CARE;         TECHNOLOGY              VOLUME-WEARABLE-INJECTORS-MARKET-4TH-EDITION-2018-2030/238.HTML (2019) ACCESSED JULY 2
+D                                 TELEMEDICINE             WARANGAL, INDIA
+                                                                                   (2017), REGULATION (EU) 2017/745 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 5 APRIL, ON MED
+                                                                                   5 APRIL, ON IN VITRO DIAGNOSTIC MEDICAL DEVICES; ROCO, M.C., SIMS BAINBRIDGE, W., CONVERGING TECHN
+                ARTIFICIAL                                                         TECHNOLOGY AND COGNITIVE SCIENCE (2002) NATIONAL SCIENCE FOUNDATION, , WWW.WTEC.ORG/CONVERG
+                INTELLIGENCE;                                                      JANUARY 2019; KURZWEIL, R., IN THE 2030S, NANOBOTS IN OUR BRAINS WILL MAKE US GODLIKE, , WWW.NANO
+                COGNITIVE                                                          AVAILABLE AT, ACCESSED 14 JANUARY 2019; WHAT IS ROBOTIC SURGERY? (2019) NYU ROBOTIC SURGERY CE
+                SCIENCE; EHEALTH;                                                  ACCESSED 14 JANUARY; STURGIS, K., (2018) HOW ARTIFICIAL INTELLIGENCE IS CHANGING MEDICAL DEVICES,
+                FUTURE                                                             CHANGING-MEDICAL-DEVICES, 17 MAY, AVAILABLE AT, ACCESSED 14 JANUARY 2019; (2019) HOW IBM WATSON
+                DIAGNOSTICS;                                                       WWW.HEALTHTECHZONE.COM/TOPICS/HEALTHCARE/ARTICLES/2018/08/14/439124-HOW-IBM-WATSON-REVOLUT
+                FUTURE                                                             ACCESSED 14 JANUARY; (2016) GUIDELINES ON THE QUALIFICATION AND CLASSIFICATION OF STAND ALONE S
+                TECHNOLOGY;                                                        2.1/6, JULY; GEGGEL, L., (2016) ONE BREATH INTO THIS BREATHALYZER CAN DIAGNOSE 17 DISEASES, , WWW.L
+                IMMORTALITY;      ARTICLE; ARTIFICIAL                              DECEMBER, AVAILABLE AT, ACCESSED 14 JANUARY 2019; SAENZ, A., (2009) SMART TOILETS: DOCTORS IN YOU
+                INFORMATION       INTELLIGENCE; HUMAN;                             SINGULARITY HUB, 12 MAY, AVAILABLE AT, ACCESSED 14 JANUARY 2019; (2019), WWW.WHO.INT/EHEALTH/EN/,
+                SCIENCE; INTERNET HUMAN EXPERIMENT;                                MARKET/EN/NEWS/EU-FUNDED-RESEARCH-AND-INNOVATION-FIELD-ICT-HEALTH-WELLBEING-AND-AGEING-OVE
+                OF THINGS (IOT);  INFORMATION SCIENCE;                             WWW.STATISTA.COM/STATISTICS/471264/IOT-NUMBER-OF-CONNECTED-DEVICES-WORLDWIDE/, INTERNET OF
+                MHEALTH;          INTERNET OF THINGS; LIFE                         STATISTICS PORTAL. AVAILABLE AT, ACCESSED 14 JANUARY; (2019), WWW.STATISTA.COM/STATISTICS/735810/
+                NANOBOTS;         EXPECTANCY; LIFESTYLE;                           WORLDWIDE FROM 2015 TO 2020, THE STATISTICS PORTAL. AVAILABLE AT, ACCESSED 14 JANUARY; THE FIRST
+                NANOTECHNOLOGY;MEDICAL TECHNOLOGY;                                 MIT TECHNOLOGY REVIEW, , WWW.TECHNOLOGYREVIEW.COM/S/612212/THE-FIRST-SOCIAL-NETWORK-OF-BRA
+                NBIC; NEW AND     MONEY;                                           ACCESSED 14 JANUARY 2019; (2019) HUMAN ENHANCEMENT STUDY, IP/A/STOA/FWC/2005-28/SC35, 41 & 45, , WW
+                EMERGING          NANOTECHNOLOGY;                                  HTTPS://WHATISTRANSHUMANISM.ORG/, AVAILABLE AT, ACCESSED 14 JANUARY; STATT, N., ELON MUSK LAUNC
+                TECHNOLOGY;       PHYSIOLOGY; PREVENTIVE                           WWW.THEVERGE.COM/2017/3/27/15077864/ELON-MUSK-NEURALINK-BRAIN-COMPUTER-INTERFACE-AI-CYBORG
+                TECHNOLOGICAL     MEDICINE; SELF                                   THINKS FIRST 1,000-YEAR-OLD PERSON IS ALREADY ALIVE, , WWW.INVERSE.COM/ARTICLE/38962-WHY-AUBREY
+                CONVERGENCE;      EVALUATION; SELF                                 ACCESSED 14 JANUARY 2019; WWW.SENS.ORG/, AVAILABLE AT, ACCESSED 14 JANUARY 2019; MOONSHOT, M.,
+                TELEMEDICINE;     MONITORING;              ABNOVO LTD, UNITED      JANUARY; (2016) METHUSELAHS MOONSHOT, , SCIENTIFIC AMERICAN, OCTOBER; (2015) WORLD POPULATION P
+REINIKAINEN M   TRANSHUMANISM TELEMEDICINE; WELLBEING KINGDOM                      TABLES.PDF, AVAILABLE AT, ACCESSED 14 JANUARY 2019; (2019), HTTPS://EN.WIKIPEDIA.ORG/WIKI/LIFE_EXPEC
+
+
+
+
+                                 FILMS; METALS; ACOUSTIC
+                                 SOUND; ELECTRONIC
+                                 SIGNALS; ELECTRONIC                               SUPPORT@MOBILDRTECH.COM; HTTPS/WWW.NCBI.ALM.NIH.GOV/PMC/ARTICJES/PMC5757962; RICHARD, C., (1
+                                 STETHOSCOPE; REAL TIME;                           AMERICAN TELECARE INC; RICHARD, C., (1996) DIGITAL TELEPHONIC SYSTEM FOR STETHOSCOPE SIGNAL PRO
+NA NA                            TELEMEDICINE                                      SENSING BODY SOUNDS, 44. , US-PATENT NO. 6498854, CLIVE SMITH, TFFLNKLABS MEDICAL LLC; RICHARD, C.,
+
+
+
+
+                                 ADULT; ARTICLE; ASSISTIVE
+                                 TECHNOLOGY;
+                                 CONTROLLED STUDY;
+                                 COORDINATION;
+                                 EMERGENCY HEALTH
+                                 SERVICE; HUMAN;
+                                 INFORMATION
+                                 TECHNOLOGY; MALE;
+                                 NORTHERN IRELAND;
+                                 NURSE; TELEMONITORING;
+                                 WELLBEING; WORKFORCE;
+                                 CLINICAL COMPETENCE;
+                                 EMERGENCY HEALTH                                   BENGOA, R., (2016) SYSTEMS, NOT STRUCTURES-CHANGING HEALTH AND SOCIAL CARE: EXPERT PANEL REPO
+                                 SERVICE; NURSE ATTITUDE;                           CARE-FULL-REPORT, (LAST ACCESSED: 13 MAY 2019.); (2011) TRANSFORMING YOUR CARE: A REVIEW OF HEAL
+                                 NURSE PATIENT                                      CONTENT/UPLOADS/2012/10/TRANSFORMING-YOUR-CARE-REVIEWOF-HSC-IN-NI.PDF, (LAST ACCESSED: 13 MAY
+                                 RELATIONSHIP;                                      NI.GOV.UK/SITES/DEFAULT/FILES/PUBLICATIONS/HEALTH/HEALTH%20AND%20WELLBEING%202026-%20DELIVE
+                COMMUNICATION;   ORGANIZATION AND                                   WHERTON, J., PAPOUTSI, C., BEYOND ADOPTION: A NEW FRAMEWORK FOR THEORIZING AND EVALUATING NON
+                INFORMATION      MANAGEMENT;                                        HEALTH AND CARE TECHNOLOGIES (2017) JOURNAL OF MEDICAL INTERNET RESEARCH; (2018) THE NURSING W
+                TECHNOLOGY;      TELEMEDICINE; CLINICAL                             PROFICIENCY FOR REGISTERED NURSES, , WWW.NMC.ORG.UK/GLOBALASSETS/SITEDOCUMENTS/EDUCATION
+                PROFESSIONAL     COMPETENCE; HUMANS;         SOUTH EASTERN HEALTH WORLD: USING TECHNOLOGY TO HELP PATIENTS IN THE HOME, , WWW.QNI.ORG.UK/WP-CONTENT/UPLOADS/2
+                ISSUES;          NORTHERN IRELAND;           AND SOCIAL CARE TRUST, INSIGHTS FROM A CONSULTATION ON THE DIGITAL FUTURE OF NURSING, , WWW.RCN.ORG.UK/PROFESSIONAL
+                TECHNOLOGY;      NURSE'S ROLE; NURSE-        DUNDONALD, BELFAST, E., (2012) THE ART AND SCIENCE OF TELEPHONE TRIAGE: HOW TO PRACTICE NURSING OVER THE PHONE, , AN
+                TELEHEALTH;      PATIENT RELATIONS;          NORTHERN IRELAND,      TERM VIEW, , HM TREASURY, LONDON; WANLESS, D., (2004) SECURING GOOD HEALTH FOR THE WHOLE POPUL
+MOORE R         WORKFORCE        TELEMEDICINE; TRIAGE        UNITED KINGDOM         KING'S FUND, LONDON; WHEELER, S., (2017) TELEPHONE TRIAGE: BEST PRACTICES AND SYSTEMS FOR TELEH
+                                ARTICLE; CLINICIAN;
+                                EMBEDDING; ENGLAND;
+                                FUNDING; GENERAL
+                                PRACTICE; HUMAN;
+                                INFORMATION               KEELE UNIVERSITY,
+                                TECHNOLOGY; LEARNING;     KEELE, STAFFORDSHIRE,
+                                NURSE; SOCIAL MEDIA;      ENGLAND, UNITED
+                                TELEHEALTH; WORKFORCE;    KINGDOM; NHS STOKE-
+                                EDUCATION; GENERAL        ON-TRENT CLINICAL
+                                PRACTICE; NATIONAL        COMMISSIONING GROUP,
+                                HEALTH SERVICE; NURSING   STOKE-ON-TRENT,
+                                EDUCATION; NURSING        ENGLAND, UNITED
+                                EVALUATION RESEARCH;      KINGDOM; NHS NORTH
+                                NURSING STAFF;            STAFFORDSHIRE
+                                ORGANIZATION AND          CLINICAL COMMISSIONING
+                                MANAGEMENT; PROBLEM       GROUP, STOKE-ON-
+               COMMUNICATION; BASED LEARNING;             TRENT, ENGLAND, UNITED
+               COMMUNITY;       PSYCHOLOGY;               KINGDOM; REDMOOR
+               GENERAL          TELEMEDICINE; ENGLAND;    HEALTH, PRESTON,       CHAMBERS, R., SCHMID, M., MAKING TECHNOLOGY-ENABLED HEALTH CARE WORK IN GENERAL PRACTICE (201
+               PRACTICE;        GENERAL PRACTICE;         LANCASHIRE, ENGLAND, A., (2018) MAKING DIGITAL HEALTHCARE HAPPEN IN PRACTICE, , SECOND EDITION. OTMOOR PUBLISHING, OXF
+               INFORMATION      HUMANS; NURSING           UNITED KINGDOM; KEELE READY GENERAL PRACTICE TEAM (2018) PRIMARY HEALTH CARE, 28 (7), PP. 22-27; COLLIS, L., WHITMORE, M., C
+               TECHNOLOGY;      EDUCATION RESEARCH;       UNIVERSITY, NHS STOKE- 406-408; (2017) BUILDING A DIGITAL READY WORKFORCE, , HEE, LEEDS; (2016) LEADING CHANGE, ADDING VALU
+               PRACTICE NURSES; NURSING EVALUATION        ON-TRENT CLINICAL      CAPACITY: A TEN POINT ACTION PLAN FOR GENERAL PRACTICE NURSING, , NHSE, LEEDS; (2018) GP PATIENT S
+BEANEY         PROFESSIONAL     RESEARCH; NURSING         COMMISSIONING GROUP, FRAMEWORK FOR GP CONTRACT REFORM TO IMPLEMENT THE NHS LONG TERM PLAN, , NHSE, LEEDS; (2014) P
+P;HATFIELD     ISSUES; SOCIAL   STAFF; PROBLEM-BASED      STOKE-ON-TRENT,        PRACTICE AND BEHAVIOUR FOR NURSES, MIDWIVES AND NURSING ASSOCIATES, , WWW.NMC.ORG.UK/STAND
+R;HUGHES       MEDIA;           LEARNING; STATE           ENGLAND, UNITED        CONSULTATION ON THE DIGITAL FUTURE OF NURSING, , RCN, LONDON; (2017) TECHNOLOGY ENABLED CARE S
+A;SCHMID       TECHNOLOGY;      MEDICINE; TELEMEDICINE    KINGDOM                DRIVE.GOOGLE.COM/FILE/D/1MPCMDU4ENPDW2F5_IWOUW8_A2EGT4P2G/VIEW, (LAST ACCESSED: 13 MAY 2019
+M;CHAMBERS R   TELEHEALTH                                                        DIGITAL FUTURE, , HEE, LEED
+
+
+
+
+                                                                              GADDIS, R., (2014) VIDE, , HTTP://EN.WIKIPEDIA.ORG/WIKI/E-TEXTILES; HSU, J., (2012) LIVE SCIENCE, , FEBRUAR
+                                                                              THE OHIO STATE UNIVERSITY NEWS LETTER, , APRIL; CHANDLER, N., (2011), VIDEHOWSTUFFWORKS.COM/GAD
+               E-TEXTILES;                                                    OF THE ACM, 39 (8), P. 23; MANN, S., (1997) PERSONAL TECHNOLOGIES, 1 (1), P. 1; MAGESWARI, G.U., DIVYA, A.,
+               FUNCTIONAL                                                     ENGINEERING, 4 (3), P. 110; JAMADAR, S., (2013) TEXTILE LEARNER, , HTTP://TEXTILELEARNER.BLOGSPOT.IN/20
+               TEXTILES;                                                      ELECTRONIC TEXTILES FOR MILITARY PERSONNEL (2015) SCHOOL OF FASHION AND TEXTILES, P. 239. , EDITED
+               INTERACTIVE                                HOOGHLY ENGINEERING (2005) DEFENCE SCIENCE JOURNAL, 35 (2), P. 195; TORNQUIST, S., (2014) ADVANCED TEXTILES SOURCE, , JANU
+               TEXTILES; SMART                            AND TECHNOLOGY,     BIOMEDICINE, 14 (3), P. 711; NAGARAJ, A.R., HARUN, V., TECHNICAL TEXTILES VIDE, , HTTP://WWW.TECHNICALT
+TARAFDER N     CLOTHING                                   HOOGHLY, INDIA      ARTICLES/HIGH-SPEED-COMMUNICATIONS-ANDHEALTHCARE-TELE-ICUS-AMBULANCE-TELEMEDICINE/INDEX.H
+                                                                      (2016) NEUROLOGIST VS. NEUROSURGEON: A BRAIN SURGEONS PERSPECTIVE, , HTTP://MEDSCHOOL.UCLA.ED
+                                                                      (2009), HTTPS://WWW.AANS.ORG/-/MEDIA/FILES/AANS/ABOUT-US/POSITION-
+                                                                      STATEMENTS/FIELD_ATTACHMENTS/2009AMERICANASSOCIATIONOFNEUROLOGICALSURGEONSANDCONGRES
+                                                                      LA=EN&HASH=B1096F53C83A40249CE4B5132787F1733AD0A767, AMERICAN ASSOCIATION OF NEUROLOGICAL S
+                                                                      HTTP://WWW.CERTIFICATIONMATTERS.ORG/ABMS-MEMBER-BOARDS/NEUROLOGY.ASPX, AMERICAN BOARD OF
+                                                                      CHILDREN BASED ON A RANDOMIZED PLACEBO-CONTROLLED DOUBLE-BLIND PHASE IV STUDY OF THE EFFEC
+                                                                      HTTPS://WWW.NCBI.NLM.NIH.GOV/PMC/ARTICLES/PMC2660319; NEUROLOGY WITH SPECIAL QUALIFICATIONS IN
+                                                                      SUBSPECIALTY-EXAM/NEURODEVELOPMENTAL-DISABILITIES, AMERICAN BOARD OF PSYCHIATRY AND NEURO
+                                                                      NEUROLOGY, , HTTPS://WWW.ABPN.COM/BECOME-CERTIFIED/TAKING-A-SPECIALTY-EXAM/NEUROLOGY-WITH-S
+                                                                      (ACCESSED DECEMBER 17, 2017); ZHORNE, L., DOES MY CHILD NEED TO SEE A NEUROLOGIST?, , HTTP://WWW
+                                                                      ACCESS TO HEALTH CARE (CHAPTER 9), , HTTPS://WWW.AHRQ.GOV/RESEARCH/FINDINGS/NHQRDR/NHQR11/CH
+                                                                      MAKE A DIFFERENCE?, ,
+                                                                      HTTP://HEALTHPOLICY.UCLA.EDU/PUBLICATIONS/DOCUMENTS/PDF/ACCESS%20TO%20MEDICAL%20CARE%20F
+                                                                      (ACCESSED DECEMBER 17, 2017); HTTP://WWW.UN.ORG/ESA/SUSTDEV/NATLINFO/INDICATORS/METHODOLOGY
+                                                                      C., TELEMEDICINE IN PEDIATRIC NEUROLOGY, , HTTP://WWW.PEDNEUR.COM/ARTICLE/S0887-8994(14)00287-2/PD
+                                                                      AMERICAN ACADEMY OF NEUROLOGY, ACCESSED DECEMBER 17, 2017; HTTP://WWW.NCSL.ORG/RESEARCH/HE
+                                                                      HTTP://PROGNOCIS.COM/WP-CONTENT/UPLOADS/2017/01/TELEMEDICINE-WHITEPAPER.PDF, ACCESSED DECEM
+                                              HOUSTON, TX, UNITED     ACCESSED DECEMBER 17, 2017; (1993) ACCESS TO HEALTH CARE IN AMERICA, , INSTITUTE OF MEDICINE, COM
+ROSE RV;KASS JS                               STATES                  ACADEMIES PRES
+                    CHRONIC DISEASE; COST
+                    CONTROL; HEALTH
+                    SERVICES RESEARCH;
+                    HOSPITAL; HOSPITAL BED
+                    UTILIZATION; HOSPITAL
+                    COST; HUMAN;
+                    ORGANIZATION;
+                    PROCEDURES;
+                    TELEMEDICINE; UNITED
+                    STATES; BED OCCUPANCY;
+                    CHRONIC DISEASE; COST
+                    CONTROL; HOSPITAL
+                    COSTS; HOSPITALS; RURAL;
+                    HUMANS; ORGANIZATIONAL
+                    CASE STUDIES;
+                    ORGANIZATIONAL
+                    INNOVATION;
+                    ORGANIZATIONAL
+                    OBJECTIVES;
+                    TELEMEDICINE; UNITED
+LADIKA S            STATES
+                    COMMERCIAL PHENOMENA;
+                    COMPUTER INTERFACE;
+                    FLORIDA; HOSPITAL; HUMAN;
+                    MULTIHOSPITAL SYSTEM;
+                    ORGANIZATION AND
+                    MANAGEMENT;
+                    TELEMEDICINE; COMMERCE;
+                    FLORIDA; HOSPITALS;
+                    HUMANS; MULTI-
+                    INSTITUTIONAL SYSTEMS;
+                    TELEMEDICINE; USER-      TAMPA, FL, UNITED
+LADIKA S            COMPUTER INTERFACE       STATES
+                                                                    MALLOL, J., CRANE, J., VON MUTIUS, E., THE INTERNATIONAL STUDY OF ASTHMA AND ALLERGIES IN CHILDHOO
+                                                                    L., MOORMAN, J., BAILEY, C., (2012) TRENDS IN ASTHMA PREVALENCE, HEALTH CARE USE, AND MORTALITY IN
+                                                                    RHEE, Y.K., OVERLAP BETWEEN ASTHMA AND COPD: WHERE THE TWO DISEASES CONVERGE (2010) ALLERGY
+                                                                    ASTHMA: NEW INSIGHTS (2003) J ALLERGY CLIN IMMUNOL, 111, PP. 215-225; VESTBO, J., HURD, S.S., AGUSTI, A.
+                                                                    PULMONARY DISEASE: GOLD EXECUTIVE SUMMARY (2013) AM J RESPIR CRIT CARE MED, 187, PP. 347-365; FAT
+                                                                    SYSTEMS FOR ASTHMA AND CHRONIC OBSTRUCTIVE PULMONARY DISEASE IN PRIMARY CARE: A SYSTEMATIC
+                    CHRONIC OBSTRUCTIVE                             1002-1014; DESAI, M., OPPENHEIMER, J.J., MEDICATION ADHERENCE IN THE ASTHMATIC CHILD AND ADOLESCE
+                    LUNG DISEASE; HOME                              IMPROVING PRIMARY CARE FOR PATIENTS WITH CHRONIC ILLNESS (2002) JAMA, 288, PP. 1775-1779; FOSTER, G
+                    MONITORING; HUMAN;                              PEOPLE WITH CHRONIC CONDITIONS (2007) COCHRANE DATABASE SYST REV, 4; HIMES, B.E., WEITZMAN, E.R.,
+                    MOBILE APPLICATION; NOTE;                       RESPIRATORY RESEARCH, 17, P. 38; FOX, S., PURCELL, K., (2010) CHRONIC DISEASE AND THE INTERNET, , WAS
+                                              GLOBAL STRATEGIES AND
+                    ONLINE SYSTEM; PATIENT                          UPDATE 2014, , PEW RESEARCH CENTER. JANUARY; KOHANE, I.S., ALTMAN, R.B., HEALTH-INFORMATION ALTRU
+                                              DEVELOPMENT,
+                    CARE; SOCIAL MEDIA;                             T., GARCIA-AYMERICH, J., INTEGRATED CARE PREVENTS HOSPITALISATIONS FOR EXACERBATIONS IN COPD P
+                                              LUMIRADX USA, INC.,
+                    TECHNOLOGY;                                     HOSPITALIZATION OF EXACERBATED CHRONIC OBSTRUCTIVE PULMONARY DISEASE PATIENTS (2003) EUR RES
+                                              WALTHAM, MA, UNITED
+                    TELEMEDICINE                                    HOSPITAL ADMISSIONS PROMPTS THE NEED FOR NEW MODALITIES OF CARE: A CROSS-SECTIONAL ANALYSIS
+FIGGE HL                                      STATES
+                    CLINICAL PRACTICE; DRUG
+                    CONTROL; GENERAL
+                    PRACTITIONER; HEALTH
+                    CARE ACCESS; HEALTH
+                    SERVICE; HUMAN; JOB
+                    SECURITY; MEDICOLEGAL
+                    ASPECT; NOTE; PATIENT
+                    COMPLIANCE; PHARMACIST;                         COFFEY, C., (2017) FAMILY SAYS PHARMACY ERROR NEARLY KILLED BOY, , NBC 5 CHICAGO WEBSITE.NBCCHIC
+                    PROFESSIONAL-PATIENT                            PUBLISHED FEBRUARY 26, 2014. ACCESSED NOVEMBER 2; (2017) US FOOD AND DRUG ADMINISTRATION WEBS
+                    RELATIONSHIP; RURAL                             MEDICATION ERRORS: WORKING TO IMPROVE MEDICATION SAFETY, UPDATED OCTOBER 23, 2015. ACCESSED
+                    AREA; TELEHEALTH;         UNIVERSITY OF         WEBSITE.DRUGTOPICS.MODERNMEDICINE.COM/DRUG-TOPICS/NEWS/PHARMACIST-ERROR-RATE-RISES-WORK
+                    TELEMEDICINE;             KENTUCKY COLLEGE OF ERRORS ARE NO. 3 CAUSE OF U.S. DEATHS, RESEARCHERS SAY, , NPR WEBSITE. NPR.ORG/SECTIONS/HEALTH
+                    TELEPHARMACY;             PHARMACY, LEXINGTON, MAY 3, 2016. ACCESSED NOVEMBER 10; LONG, R., ROE, S., (2017) CHICAGO MOVES CLOSER TO EASING PHARM
+GALOP BN;FINK III   TELEPSYCHIATRY            UNITED STATES         PHARMACY-RULES-CHICAGO-MET-20171010-STORY.HTML. PUBLISHED OCTOBER 10, 2017. ACCESSED NOVEMB
+                    BIOSIMILAR AGENT;
+                    GENERIC DRUG; ANALYSIS;
+                    DRUG COST; DRUG
+                    INDUSTRY; HEALTH CARE
+                    INDUSTRY; HUMAN;
+                    INFORMATION PROCESSING;
+                    NOTE; PATIENT
+                    COMPLIANCE;
+                    PERSONALIZED MEDICINE;
+BOTTA M             TELEMEDICINE
+               COMMERCIAL PHENOMENA;
+               DOMESTIC VIOLENCE;
+               HEALTH CARE; HEALTH
+               CARE COST; HEALTH CARE
+               PERSONNEL; HEALTH CARE
+               POLICY; HUMAN; NOTE;
+               PATIENT COUNSELING;
+               PHARMACIST; PHARMACY;
+               PHARMACY BENEFIT
+               MANAGER; TELEMEDICINE;
+HENNESSY S     WOMEN'S HEALTH
+               COMPUTER SECURITY;       RESEARCH AND
+               DRUG DELIVERY DEVICE;    DEVELOPMENT, ENABLE
+               DRUG DELIVERY SYSTEM; INJECTIONS, 2863 E
+               ENABLE ON BODY DELIVERY SHARON ROAD,
+               DEVICE; EQUIPMENT        CINCINNATI, OH 45241,
+               DESIGN; HEALTH CARE      UNITED STATES;
+               ORGANIZATION; HUMAN;     STRATEGIC
+               INFORMATION PROCESSING; PARTNERSHIPS AND
+               INVENTION; MEDICAL       BUSINESS
+               DEVICE REGULATION; NOTE; DEVELOPMENT, DIGITAL
+               PRIVACY; SOFTWARE        HEALTH, FLEX, 6201
+               DESIGN;                  AMERICA CENTER DRIVE,
+HUDDLESTON     TELECOMMUNICATION;       SAN JOSE, CA 95002,   (2017), HTTP://WWW.IHI.ORG/ENGAGE/INITIATIVES/TRIPLEAIM, US INSTITUTE FOR HEALTHCARE IMPROVEMENT
+MJ;WRIGHT AK   TELEMEDICINE             UNITED STATES         CONTINUES-TO-CLIMB-IN-EMERGING-ECONOMIES/TECHNOLOGY-REPORT-01-0
+
+
+                                       OAKLAND, CA, UNITED
+JOHNSON HR                             STATES
+               ARTICLE; DRUG COST; DRUG
+               INDUSTRY; ELECTRONIC
+               HEALTH RECORD; HEALTH                            (2017) PWC HEALTH RESEARCH INSTITUTE, TOP HEALTH INDUSTRY ISSUES OF 2017: A YEAR OF UNCERTAINTY
+               CARE QUALITY; HUMAN;                             FUNDED BY UK, , HTTP://WWW.BBC.COM/NEWS/TECHNOLOGY-38450664, DEC. 29; TOOR, A., THIS STARTUP IS U
+               PATIENT CARE;                                    MEARIAN, L., (2017) IBM WATSON, FDA TO EXPLORE BLOCKCHAIN FOR SECURE PATIENT DATA EXCHANGE, , JA
+               PRESCRIPTION; RURAL                              BARKER, S., (2016) INCOMING HHS SECRETARY TOM PRICE BRINGS PHYSICIAN-FOCUSED PERSPECTIVE TO HE
+               AREA;                                            HTTP://WWW.ALLERGAN.COM/NEWS/CEOBLOG/SEPTEMBER-2016/OUR-SOCIAL-CONTRACT-WITH-PATIENTS, SE
+               TELECOMMUNICATION;      NICE INSIGHT, UNITED     APRIL 11; SILVERMAN, E., NOVO NORDISK BECOMES SECOND MAJOR DRUG MAKER TO LIMIT PRICE HIKES (201
+BRANCH E       TELEMEDICINE            STATES                   WWW.NICEINSIGHTCDMO.COM/BUYING-TRENDS.ASP
+
+
+
+
+NA NA
+               HUMAN; MENTAL HEALTH
+               SERVICE; PSYCHOTHERAPY;
+               TELEMEDICINE; UNITED
+               STATES; HUMANS; MENTAL
+               HEALTH SERVICES;
+               PSYCHOTHERAPY;
+               TELEMEDICINE; UNITED
+               STATES
+KELLEY T
+               ECONOMICS; INSURANCE;
+               REIMBURSEMENT;
+               STANDARDS;
+               TELEMEDICINE; UNITED
+               STATES; UTILIZATION;
+               INSURANCE COVERAGE;
+               INSURANCE; HEALTH;
+               REIMBURSEMENT;
+               TELEMEDICINE; UNITED      TAMPA, FL, UNITED
+LADIKA S       STATES                    STATES
+               PATIENT ATTITUDE;
+               TELEMEDICINE; UNITED
+               STATES; PATIENT
+               ACCEPTANCE OF HEALTH
+               CARE; TELEMEDICINE;
+DIAMOND F      UNITED STATES
+
+
+
+
+               ARTICLE; DRUG DELIVERY
+               SYSTEM; HEALTH CARE
+               SYSTEM; HUMAN; MARKET; QUALCOMM LIFE (MUNICH
+               MEDICAL DEVICE; PATIENT OFFICE),
+               MONITORING; REWARD;       FRANZISKANERSTRASSE EZELL, C., JIMENEZ, R., KOBERNICK, E., NAZARY, S., , 50P. QUALCOMM LIFE MARKETING RESEARCH REPORT, M
+               TELEMEDICINE; UNITED      14 2ND FLOOR, MUNICH, 2015; EZELL, C., JIMENEZ, R., KOBERNICK, E., NAZARY, S., , 54P. QUALCOMM LIFE MARKETING RESEARCH REPO
+OLESEN T       KINGDOM                   BA 81669, GERMANY     COMPANIES TBS GB AND CHU LIMOGES, , MARCH
+               ARTICLE; DECISION MAKING;
+               HEALTH CARE ACCESS;
+               HEALTH CARE COST;
+               HEALTH CARE PERSONNEL;
+               HUMAN; INFORMATION
+               PROCESSING; INFORMATION
+               RETRIEVAL; INFORMATION
+               STORAGE; MEDICAL
+               INFORMATICS; MEDICATION
+               ERROR; MEDICATION
+               THERAPY MANAGEMENT;
+               PATIENT CARE; PATIENT
+               CODING; PHARMACIST;
+               PRESCRIPTION;
+GILCHRIST A    TELEMEDICINE
+                                GREENHOUSES;
+                                BIOMEDICAL DEVICES;
+                                HUMANITARIAN                HUMANITARIAN
+                                ENGINEERING;                ENGINEERING AND
+                                IMPLEMENTATION              SOCIAL
+                                APPROACH; PENNSYLVANIA      ENTREPRENEURSHIP
+                                STATE UNIVERSITY;           (HESE) PROGRAM,
+                                RIGOROUS RESEARCH;          UNITED STATES;
+                                SCHOLARLY RESEARCH;         DEPARTMENT OF
+                                SOCIAL                      ENGINEERING DESIGN,
+                                ENTREPRENEURSHIP;           PENNSYLVANIA STATE
+                                TELEMEDICINE SYSTEMS;       UNIVERSITY, UNIVERSITY
+MEHTA K                         SOFTWARE TESTING            PARK, UNITED STATES
+                                                            NEXT IT, UNITED STATES;
+                                                            GENENTECH, UNITED
+MORROW T                                                    STATES
+                                AGED; AMBULATORY
+                                MONITORING; ELDERLY
+                                CARE; GREAT BRITAIN;
+                                HOME CARE; HUMAN;
+                                MEDICAL TECHNOLOGY;
+                                NATIONAL HEALTH SERVICE;
+                                PILOT STUDY;
+                                TELEMEDICINE; AGED;
+                                BIOMEDICAL TECHNOLOGY;
+                                GREAT BRITAIN; HEALTH
+                                SERVICES FOR THE AGED;
+                                HOME CARE SERVICES;
+                                HUMANS; MONITORING;
+                                AMBULATORY; PILOT
+                                PROJECTS; STATE
+NA NA                           MEDICINE; TELEMEDICINE
+
+
+
+
+KIRKNER RM
+                                DIETITIAN; EMERGENCY
+                                CARE; FEMALE;
+                                GYNECOLOGIST; HEALTH
+                                CARE PERSONNEL; HEALTH
+                                CENTER; HUMAN;
+                                LACTATION CONSULTANT;
+                                MEDICAL DECISION MAKING;
+                                MOBILE APPLICATION; NOTE;
+                                NURSE PRACTITIONER;
+                                OBSTETRICIAN; PUERPERAL
+                                DEPRESSION; PUERPERIUM;
+                                TELEMEDICINE; URINARY
+GILCHRIST A                     TRACT INFECTION
+
+
+
+
+                                ADOLESCENT; ARTICLE;
+                                CHILD; FECES
+                                INCONTINENCE; HUMAN;
+                                NURSING; NURSING
+                                PRACTICE; ORGANIZATION
+                                AND MANAGEMENT; SPINAL
+                                DYSRAPHISM;
+                                TELEMEDICINE; UNITED
+                                KINGDOM; URINE
+                                INCONTINENCE;
+                                ADOLESCENT; CHILD; FECAL                        ARMFIELD, N., CLINICAL USE OF SKYPE: A REVIEW OF THE EVIDENCE BASE (2012) JOURNAL OF TELEMEDICINE
+                                INCONTINENCE; GREAT      SCOTTISH SPINA BIFIDA BIFIDA AND CEREBRAL PALSY (1991) PEDIATRICS, 88 (2), PP. 280-285; CICCIA, A., IMPROVING THE ACCESS OF Y
+              COMMUNICATIONS BRITAIN; HUMANS; NURSE'S ASSOCIATION,              JOURNAL OF TELEMEDICINE AND TELECARE, 17 (5), PP. 240-244; DAVIS, B., ACQUISITION OF AUTONOMY SKILLS
+              TECHNOLOGY;       PRACTICE PATTERNS;       CUMBERNAULD, UNITED 48 (4), PP. 253-258; GARRETT, C., YOUNG PEOPLE'S VIEWS ON THE POTENTIAL USE OF TELEMEDICINE CONSUL
+MCALPINE      CONTINENCE; SPINA SPINAL DYSRAPHISM;       KINGDOM; UNIVERSITY OF 285; HARVEY, S., ELEVEN YEARS OF EXPERIENCE WITH LOW-BAND WITH TELEMEDICINE IN A NURSING-LED RU
+C;HENDERSON   BIFIDA;           TELEMEDICINE; URINARY    EDINBURGH, UNITED      M., THE CHILD AND ADOLESCENT TELEPSYCHIATRY CONSULTATION: CAN IT BE MORE EFFECTIVE CLINICAL PR
+L;LEVY S      TELEHEALTH        INCONTINENCE             KINGDOM                (3), PP. 289-292; SAWIN, K., THE EXPERIENCE OF SELF-MANAGEMENT IN ADOLESCENT WOMEN WITH SPINA BIF
+
+                                                            MOBILE HEALTH, UNITED
+PARMAR A                                                    STATES
+                PRODUCTIVITY; ADDED
+                VALUES; COMPREHENSIVE
+                SERVICES; EMERGENCY
+                SITUATION; INCIDENT
+                REPORTS; INDIVIDUAL
+                PRODUCTIVITY; REAL TIME;
+                REMOTE LOCATION;
+                EMERGENCY SERVICES;
+                ACCURACY ASSESSMENT;       WORLDWIDE
+                COST ANALYSIS; JOB         TELEMEDICINE, UNITED
+                SEARCH; PRODUCTIVITY;      STATES; L.J. CHABERT
+GARCIA          REAL TIME; RECORD;         MEDICAL CENTER,
+M;FALTERMAN T   TECHNOLOGICAL CHANGE       UNITED STATES
+
+
+NA NA
+
+
+
+
+PARMAR A
+                EDUCATION PROGRAM;
+                HEALTH CARE ACCESS;
+                HEALTH CARE PERSONNEL;
+                HUMAN; NOTE; RURAL AREA;
+                TELECONSULTATION;
+                TELEMEDICINE;
+OLDFIELD E      TELEPHARMACY
+                DRUG INDUSTRY; FINANCIAL
+                MANAGEMENT; HEALTH
+                CARE; HEALTH CARE
+                INDUSTRY; HEALTH CARE
+                PERSONNEL; MARKETING;
+                MEDICAL PRACTICE ACT;
+                PHARMACIST; PHYSICIAN;
+                REGISTERED NURSE; SHORT
+                SURVEY; SMOKING
+                CESSATION; SOCIAL MEDIA; VIRTUAL HEALTHCARE
+                TELEMEDICINE;            SOLUTIONS (VHS) AT
+COMP L          VIDEORECORDING           TELERX, UNITED STATES
+
+
+
+
+                CONSUMER TRENDS; DATA
+                ACQUISITION SYSTEM;
+                HUMAN MACHINE
+                INTERFACE; MACHINE
+                MONITORING; MOBILE
+                HEALTH (M-HEALTH);
+                NATIONAL INSTRUMENTS;
+                OPEN STANDARDS; REMOTE
+                MONITORING AND                                    MOBILE TECHNOLOGY'S INFLUENCE ON DATA ACQUISITION (2013) DATA ACQUISITION TECHNOLOGY OUTLOOK
+                CONTROL; CONDITION                                (2013) NI NEWS, , NATIONAL INSTRUMENTS, APRIL 3; WEB SERVICES ACTIVITY TECHNOLOGY & SOCIETY DOMA
+                MONITORING; MOBILE                                PROPERTY (2012) RESEARCH REPORT SUMMARY, , TECHINSIGHTS AND ESPICOM; MHEALTH: NEW HORIZONS F
+NELSON R        DEVICES                                           VOLUTNE 3, , WORLD HEALTH ORGANIZATION; BIG ANALOG DATA AND DATA ACQUISITION (2013) DATA ACQUIS
+
+
+
+PARMAR A
+                CHRONIC DISEASE;
+                ECONOMICS; EVIDENCE
+                BASED PRACTICE; HUMAN;
+                NOTE; STANDARD;
+                TELEMEDICINE; CHRONIC
+                DISEASE; EVIDENCE-BASED
+                PRACTICE; HUMANS;
+DIAMOND F       TELEMEDICINE
+
+NA NA
+                ARTIFICIAL INTELLIGENCE;
+                CLINICAL DECISION MAKING;
+                CLINICAL PRACTICE; HEALTH
+                CARE SYSTEM; HUMAN;
+                INFORMATION PROCESSING; ESHELMAN SCHOOL OF
+                MEDICAL ERROR; NOTE;      PHARMACY, UNIVERSITY
+                PATIENT SAFETY;           OF NORTH CAROLINA,
+                PHARMACIST;               CHAPEL HILL, UNITED
+ECKEL E         TELEMEDICINE; WATSON      STATES
+                GENERIC DRUG;
+                HYDROXYMETHYLGLUTARYL
+                COENZYME A REDUCTASE
+                INHIBITOR; PROTEIN;
+                BACTERIUM;
+                BIOTECHNOLOGY; DIET;
+                DRUG COST; DRUG
+                INDUSTRY; ECONOMIC
+                ASPECT; ELECTRONIC
+                MEDICAL RECORD;
+                ENVIRONMENTAL FACTOR;
+                HEALTH CARE; HEALTH
+                CARE DELIVERY; HUMAN;     BURRILL AND COMPANY,
+                LUNG CANCER; MELANOMA; ONE EMBARCADERO
+                PATIENT RIGHT; PUBLIC     CENTER, SAN
+                HEALTH; SCIENTIST; SHORT FRANCISCO, CA 94111,
+BURRILL GS      SURVEY; TELEMEDICINE      UNITED STATES        WORLD PREVIEW 2016: BEYOND THE PATENT CLIFF, , WWW.EVALUATEPHARMA.COM/EVALUATEPHARMA_WOR
+
+
+
+
+                DRUGS PRESCRIPTION; E-
+                GOVERNANCE; E-
+                GOVERNMENT; EHEALTH;
+                HIGH DEFINITION; HIGH
+                QUALITY; HOME CARE;
+                MEDICAL RECORD; ON-LINE
+                ACCESS; TECHNOLOGICAL
+                INNOVATION; VULNERABLE
+                PATIENTS; GOVERNMENT
+                DATA PROCESSING;
+                HOSPITALS; TELEMEDICINE;
+                ELECTRONIC DOCUMENT
+VITALIEV V      EXCHANGE
+
+
+
+
+                EHEALTH; REGENERATIVE
+                MEDICINE; TECHNICAL
+                FIELDS; INFORMATION
+HAMMERSCHMIDT   TECHNOLOGY;
+C               PROSTHETICS
+              BIOMEDICAL DATA;
+              BIOMEDICAL SENSORS;
+              BLOOD GLUCOSE LEVEL;
+              DATA BANK; ELECTRONIC
+              MEDIA; GERMANY; MEDICAL                         WOLF, B., KOMPONENTEN UND SYSTEME FR DIE PERSONALISIERTE ASSISTENZ PERSONALISIERTE MEDIZIN. H
+              SYSTEMS; MICROSOFT        HEINZ NIXDORF-        PERSONALISIERTEN TELEMEDIZINISCHEN ASSISTENZ - ODER - AUF ANRUF ARZT (2010) E-HEALTH 2011. INFOR
+              WINDOWS; SYMBIAN OS;      LEHRSTUHL FR          FUTURE; FRIEDRICH, P., CLAUSS, J., SEHOLZ, A., WOLF, B., SENSORIK FR TELEMEDIZINISCHE ANWENDUNGEN
+              TELEMEDICAL               MEDIZINISCHE          SMETAK, N., STUTTGART, GEORG THIEME; MARCUS, A., CHEN, E., DESIGNING THE PDA OF THE FUTURE (2002)
+              APPLICATIONS;             ELEKTRONIK,           THEIR FUTURE USE IN EDUCATON (2004) JISC TECHNOLOGY AND STANDARDS WATCH, , BRISTOL/UK; (2010) RE
+SPITTLER      BIOSENSORS; BLOOD         TECHNISCHEN           1133864.HTML, 25. NOVEMBER; (2010) REV., , HTTP://T3N.DE/NEWS/UMFANGREICHES-UPDATEWINDOWS-PHONE
+T;FRIEDRICH   PRESSURE; GLUCOSE;        UNIVERSITT, MNCHEN,   FITNESS-SENSOR-KEY.ASP, 25. NOVEMBER; (2010) REV., , WWW.THISISANT.COM/NEWS/STORIES/ANT-MEMBER
+P;WOLF B      SMARTPHONES               GERMANY               ONLINE.DE/-IPHONE-4-GEGENHTC-DESIRE-SAMSUNG-S8500-WAVE- NOKIAN8-UND-SONY-VIVAZ/ID_41908474/IND
+
+
+
+
+NA NA
+
+
+
+
+TREADWAY H                                                    HTTP://WWW.MDDIONLINE.COM/ARTICLE/EFFECT-PREVENTATIVE-CARE; HTTP://WWW.MDDIONLINE.COM/ARTIC
+HOCHFEDER B
+
+
+
+
+                 CLOUD COMPUTING; END
+                 USERS; HOME
+                 ENTERTAINMENT; HOME
+                 NETWORKING;
+                 INSTALLATION TIME;
+                 INTERNATIONAL
+                 TELECOMMUNICATION
+                 UNIONS; INTERNET
+                 PROTOCOL TELEVISION; ITS
+                 EFFICIENCIES; NETWORK
+                 TECHNOLOGIES; NEW
+                 APPLICATIONS; POWER
+                 LINES; SERVICE PROVIDER;
+                 SILICON VENDORS;
+                 TELEPRESENCE; TRIPLE
+                 PLAY SERVICES; ULTRA-
+                 HIGH; BANDWIDTH;
+                 INTERNET PROTOCOLS;
+                 TELECOMMUNICATION
+                 EQUIPMENT; TELEVISION
+                 APPLICATIONS; VISUAL     COPPERGATE, UNITED
+FRANCO R         COMMUNICATION; IPTV      KINGDOM
+                 DRUG INDUSTRY; HEALTH
+                 CARE COST; HEALTH CARE
+                 POLICY; HEALTH CARE
+                 QUALITY; MEDICAL
+BOWIS J;MUNDIE   TECHNOLOGY; SHORT
+C;GOLDMAN M      SURVEY; TELEMEDICINE
+                 EDITORIAL; HEALTH CARE
+                 COST; HEALTH CARE
+                 QUALITY; PATIENT
+                 MONITORING;
+LINDGREN A       TELEMEDICINE
+ROONEY L
+
+
+
+
+             ADVANCED DIAGNOSTICS;
+             BLUETOOTH TECHNOLOGY;
+             DIRECT TREATMENT;
+             HEALTH SERVICES;
+             HOUSTON; MEDICAL
+             COMPANIES; MENTAL
+             HEALTH SERVICES; REMOTE
+             REGIONS; TELEMEDICINE
+             ENCOUNTER; VIDEOSCOPE;
+             VITAL SIGN; CELLULAR
+             TELEPHONE SYSTEMS;
+             HEALTH; PATIENT
+             TREATMENT; PREVENTIVE
+             MAINTENANCE;
+             TELECONFERENCING;
+             TELEMEDICINE; ADVANCED
+             TECHNOLOGY; HEALTH
+             CARE; HEALTH SERVICES;
+             INDUSTRIAL ENTERPRISE;
+             INTERNET; MEDICINE;
+             MENTAL HEALTH;
+             OFFSHORE ENGINEERING;
+             TELECOMMUTING;
+             HOUSTON; NORTH AMERICA;
+MCCULLEY R   TEXAS; UNITED STATES
+             DRUG; ACCESS TO
+             INFORMATION; ARTICLE;
+             COMMUNITY CARE;
+             COMPUTER PROGRAM;
+             CONTAINER; DRUG
+             APPROVAL; DRUG CAPSULE;
+             DRUG INFORMATION; DRUG
+             LABELING; DRUG
+             MARKETING; DRUG
+             PACKAGING; ELECTRONIC
+             MEDICAL RECORD; HEALTH
+             CENTER; HEALTH
+             PROGRAM; HEALTH
+             SERVICE; MEDICAL
+             DOCUMENTATION; PATIENT
+             COUNSELING; PATIENT
+             INFORMATION;
+             PHARMACIST;
+             PRESCRIPTION; ROBOTICS;
+             SYSTEM ANALYSIS; TABLET;
+             TELEMEDICINE;
+             TELEPHARMACY;
+NA NA        VIDEORECORDING
+          ALCOHOL;
+          ANTIDEPRESSANT AGENT;
+          CARBON MONOXIDE;
+          ALCOHOL INTOXICATION;
+          ARTICLE; CARBON
+          MONOXIDE INTOXICATION;
+          COURT; CRIME; HUMAN;
+          INTERNET;
+          JURISPRUDENCE; LAW SUIT;
+          LEGAL ASPECT; LICENCE;
+          MALPRACTICE; MEDICAL
+          PRACTICE; PHARMACY;      UNIVERSITY OF
+          PHYSICIAN; PRESCRIPTION; KENTUCKY COLLEGE OF
+          SUICIDE; TELEMEDICINE;   PHARMACY, LEXINGTON,
+FINK JL   UNITED STATES            KY, UNITED STATES
+          ARTICLE; CHEMOTHERAPY;
+          INFORMATION PROCESSING;
+          MEDICAL DOCUMENTATION;
+          MEDICATION ERROR;
+          PHARMACEUTICS;
+          PHARMACIST; PHARMACY;
+          PROFESSIONAL PRACTICE;
+          RISK REDUCTION; SAFETY;
+          SYSTEM ANALYSIS;
+          TELEMEDICINE;
+NA NA     TELEPHARMACY
+          ARTICLE; COMPUTER
+          PROGRAM; COMPUTER
+          SYSTEM; CONSUMER
+          ADVOCACY; DRUG COST;
+          DRUG INFORMATION; DRUG
+          UTILIZATION; HUMAN
+          COMPUTER INTERACTION;
+          INFORMATION PROCESSING;
+          INFORMATION
+          TECHNOLOGY; INTERNET;
+          MEDICATION ERROR;
+          PATIENT ATTITUDE;
+          PHARMACEUTICAL CARE;
+          PHARMACIST ATTITUDE;
+          PRESCRIPTION; RESOURCE
+          MANAGEMENT;
+NA NA     TELEMEDICINE
+
+
+
+
+NA NA
+
+
+
+
+          CAMERAS; CHARGE
+          COUPLED DEVICES; DIGITAL
+          IMAGE STORAGE; IMAGE
+          ENHANCEMENT;
+          OPTOELECTRONIC DEVICES;
+          REAL TIME SYSTEMS;
+          SENSORS; WAVE FILTERS;
+          ARIZONA; BLOCKED
+          ASSEMBLIES; COLOR
+          IMAGES; END USERS; FILTER
+          WHEELS; TELEMEDICINE
+          PROGRAMS; TELEMEDICINE
+          SYSTEMS; TOSHIBA;
+HOGAN H   TELEMEDICINE
+            COMPUTER ARCHITECTURE;
+            DIAGNOSIS; PATIENT
+            MONITORING;
+            TELEMEDICINE; VIDEO
+            CONFERENCING; WIRELESS
+            TELECOMMUNICATION
+            SYSTEMS; SERVICE-
+            ORIENTED ARCHITECTURE
+            (SOA); TELEMEDICINE
+            VIDEOCONFERENCING
+            SYSTEM; THERAPEUTIC
+NA NA       SERVICES; HEALTH CARE
+
+
+
+
+            DEFENSE MEDICAL
+            INFORMATION CAPABILITY
+            PROGRAM (DMICP); DENTAL
+            SYSTEMS; MEDICAL
+            RECORDS; MINISTRY OF
+            DEFENSE (MOD);
+            CONTRACTS; DATABASE
+            SYSTEMS; DIAGNOSIS;
+            HEALTH CARE; PATIENT
+            TREATMENT; PERSONAL
+            DIGITAL ASSISTANTS; CIVIL
+SKINNER T   DEFENSE
+
+
+
+
+            DECISION MAKING; IMAGING
+            SYSTEMS; INTERNET;
+            PATHOLOGY; REAL TIME
+            SYSTEMS; TELEMEDICINE;
+            CLINICAL APPLICATIONS;
+            DIGITAL MICROSCOPY;
+            TELEPATHOLOGY; VIRTUAL
+            MICROSCOPY;
+NA NA       MICROSCOPIC EXAMINATION
+               HEALTH CARE; MARINAS;
+               RADIOGRAPHY; REMOTE
+               CONSOLES; ROBOTICS;
+               TELECONFERENCING;
+               COMPUTER RADIOGRAPHY
+               (CR); INTEGRATED
+               DYNAMICS LIMITED (CO);
+               TELEROBOTIC SYSTEM; X-
+               RAY FILM IMAGING;
+NA NA          TELEMEDICINE
+
+
+
+
+               HEALTH CARE; PATIENT
+               TREATMENT; PLANNING;
+               PROFESSIONAL ASPECTS;
+               SENSORS; SOCIAL ASPECTS;
+               SOCIETIES AND
+               INSTITUTIONS;
+               TELEMEDICINE; INTEL (CO);
+               SENSOR NETWORKS; WHITE
+               HOUSE CONFERENCE;
+               TECHNICAL
+MERRITT R      PRESENTATIONS
+
+
+
+
+               APPLICATIONS;
+               FORECASTING; INSPECTION;
+               MEDICINE; RESEARCH AND
+               DEVELOPMENT
+               MANAGEMENT; BROADBAND
+               ACCESS; ELECTRONIC
+               DIGITAL SIGNATURE;
+NA NA          TELECOMMUNICATION
+
+
+
+
+               APPLICATIONS;
+               INFORMATION
+               TECHNOLOGY;
+               INTERNATIONAL
+               COOPERATION; MEDICINE;
+               MOBILE
+               TELECOMMUNICATION
+               SYSTEMS; ELECTRONIC
+               GOVERNMENT;
+GORYANNIKOVA   TELEMEDICINE;
+VF             TELECOMMUNICATION
+            BANDWIDTH; BIOMEDICAL
+            ENGINEERING; DISTANCE
+            EDUCATION; HOSPITALS;
+            SOCIETIES AND
+            INSTITUTIONS;
+            TELECONFERENCING;
+            TELEMEDICINE; WIRELESS
+            TELECOMMUNICATION
+            SYSTEMS; CARRIER
+            FREQUENCY; E-EDUCATION;
+            MEDICAL RECORDS; VOIP;
+NA NA       LOCAL AREA NETWORKS
+
+
+
+
+            BIOMEDICAL ENGINEERING;
+            COMPUTER AIDED DESIGN;
+            FIBER OPTIC NETWORKS;
+            FIBER OPTICS; MODELS;
+            VIDEO CONFERENCING;
+            BACKBONE; RAILROAD
+            HOSPITAL; TECHNOLOGICAL
+            CONNECTION; TELEMEDICAL
+            CENTER;
+            TELECOMMUNICATION
+NA NA       EQUIPMENT
+
+
+
+
+            ASYNCHRONOUS TRANSFER
+            MODE; BANDWIDTH; DATA
+            ACQUISITION; DECODING;
+            MOBILE ROBOTS; NETWORK
+            PROTOCOLS; OPERATING
+            ROOMS; SIGNAL ENCODING;
+            SURGERY;
+            TELECOMMUNICATION
+            NETWORKS; AMERICAN
+            TELEMEDICINE
+            ASSOCIATION (ATA);
+            HAIVISION SYSTEMS INC
+            (CO); TELEMEDICINE AND
+            ADVANCED TECHNOLOGY
+            RESEARCH CENTER
+            (TATRC); TELESURGERY;
+            TELEMEDICINE; CODING;
+            DATA PROCESSING;
+            MEDICINE; ROBOTS;
+RUSSELL H   TELECOMMUNICATIONS
+
+
+
+
+            BIOSENSORS; MEDICAL
+            APPLICATIONS; PATIENT
+            MONITORING; TECHNICAL
+            PRESENTATIONS; BODILY
+            FUNCTIONS; INTEGRATING
+            SENSORS; MEDICAL
+            TEXTILES; TEXTILES;
+            MONITORING; SENSORS;
+            SYMPOSIA; TEXTILES;
+            MEDICAL TEXTILE;
+            MONITORING SYSTEM;
+NA NA       SENSOR
+                   COMPUTER RESOURCES; E-
+                   WORK SYSTEMS; GLOBAL
+                   NETWORKS; GRID
+                   COMPUTING; COMPUTER
+                   AIDED SOFTWARE
+                   ENGINEERING; COMPUTER
+                   SIMULATION; COMPUTER
+                   SOFTWARE; COMPUTER
+                   SUPPORTED COOPERATIVE
+                   WORK; DATABASE
+                   SYSTEMS; DECISION
+                   MAKING; ELECTRONIC
+                   COMMERCE; INTEGRATION;
+                   MATHEMATICAL MODELS;
+                   NETWORK PROTOCOLS;
+                   PROBLEM SOLVING;       PURDUE UNIVERSITY,
+                   TELEMEDICINE; COMPUTER WEST LAFAYETTE, IN,
+VENERE E           NETWORKS               UNITED STATES
+
+
+
+
+                   BIOMEDICAL ENGINEERING;
+                   CARDIOLOGY; INFORMATION
+                   TECHNOLOGY; MEDICINE;
+                   TELECOMMUNICATION
+                   SERVICES; COMMERCIAL
+                   PROSPECTS; TECHNICAL
+                   POSSIBILITIES; TELEHOUSE;
+                   TELECOMMUNICATION
+ANDREEV MD
+
+
+
+                                           UNIVERSITY OF AKRON,
+                                           UNITED STATES; NASA
+                   ARRHYTHMIA MONITORING GLENN RESEARCH
+                   SYSTEMS (AMS); BIPOLAR CENTER, UNITED STATES;
+                   ELECTRODES; CALL        CASE WESTERN RESERVE
+                   CENTERS; COMMERCIAL     UNIVERSITY, UNITED
+                   OFF-THE-SHELF (COTS);   STATES; UNIV. OF AKRON,
+                   ALGORITHMS;             CAS 227, AKRON, OH
+                   BENCHMARKING;           44325-4003, UNITED
+                   CARDIOLOGY; DIGITAL     STATES; NASA GLENN
+                   COMMUNICATION SYSTEMS; RESEARCH CENTER, MS
+                   GLOBAL POSITIONING      86-11, 21000 BROOKPARK
+                   SYSTEM; HEALTH CARE;    RD., CLEVELAND, OH
+                   PATIENT MONITORING;     44135, UNITED STATES;
+                   PROFESSIONAL ASPECTS; NASA GLENN RESEARCH
+                   REAL TIME SYSTEMS; RISK CENTER, MS 86-5, 21000
+                   ASSESSMENT;             BROOKPARK RD.,
+                   TELEMEDICINE; WEB       CLEVELAND, OH 44135,
+LISZKA KJ;MACKIN   BROWSERS; WIRELESS      UNITED STATES;          ROSENBAUM, D.S., ALBRECHT, P., COHEN, R.J., PREDICTING SUDDEN CARDIAC DEATH FROM MICROVOLT T-WA
+MA;LICHTER         TELECOMMUNICATION       METROHEALTH, 2500       CARDIOVASCULAR ELECTROPHYSIOLOGY, 7 (11), PP. 1095-1111; DURBIN, D., (2000) RAPID INTERPRETATION OF
+MJ;YORK            SYSTEMS; WORLD WIDE     METROHEALTH DR.,        ESTIMATION IN LOSSLESS ECG COMPRESSION (2002) COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE,
+DW;PILLAI          WEB;                    CLEVELAND, OH 44109,    47; BERESFORD, A.R., STAJANO, F., LOCATION PRIVACY IN PERVASIVE COMPUTING (2003) IEEE PERVASIVE CO
+D;ROSENBAUM DS     ELECTROCARDIOGRAPHY UNITED STATES               TRANS. BIOMED. ENG., 32 (3), PP. 230-23
+
+
+
+
+                   COMPUTERIZED
+                   TOMOGRAPHY; PERSONNEL
+                   TRAINING; SPACE STATIONS;
+                   SPACECRAFT;
+                   TELECOMMUNICATION
+                   LINKS; TELEMEDICINE;
+                   ULTRASONIC DEVICES; X
+                   RAYS; ULTRASOUND
+                   IMAGES; ULTRASOUND
+                   PROBES; VIDEO STREAMS;
+DEGASPARI J        SPACE RESEARCH
+                   ASTRONAUTS;
+                   TELEMEDICINE MISSIONS;
+                   UNDERWATER
+                   LABORATORY;
+                   ATMOSPHERICS;
+                   ENVIRONMENTAL IMPACT;
+                   MEDICAL APPLICATIONS;
+                   NITROGEN; OCEAN
+                   HABITATS; PERSONAL
+                   DIGITAL ASSISTANTS;
+                   PHYSIOLOGY; SPACE
+                   STATIONS; UNDERWATER
+                   STRUCTURES; SPACE
+MORRING JR. F      RESEARCH
+
+
+
+
+                   DATA COMMUNICATION
+                   SYSTEMS; DRY CLEANING;
+                   ELECTROCARDIOGRAPHY;
+                   ERGONOMICS; GARMENT
+                   MANUFACTURE; GLOBAL
+                   POSITIONING SYSTEM;
+                   GLOBAL SYSTEM FOR
+                   MOBILE COMMUNICATIONS;
+                   HOSPITALS; PATIENT
+                   TREATMENT; PHYSIOLOGY;
+                   SENSORS; VISUALIZATION;
+                   WEAVING; HEART RATES;
+                   MEDICAL MEASUREMENT
+                   SENSORS;
+                   TELEMONITORING TOOLS;
+                   THERMAL SENSORS;
+NA NA              TELEMEDICINE
+
+
+
+
+                   DESIGN; ECONOMICS;
+                   MEDICINE; SATELLITE
+                   COMMUNICATION SYSTEMS;
+NATENZON           TELECOMMUNICATION
+MY;TARNOPOL'SKIJ   SERVICES; TELEMEDICINE;
+VI                 INFORMATION TECHNOLOGY
+
+
+
+
+                   BIOMEDICAL ENGINEERING;
+                   CARDIOVASCULAR SYSTEM;
+                   PATHOLOGY; PHYSIOLOGY;
+                   SATELLITES; SENSORS;
+                   TELEMEDICINE; MEDICAL
+                   MEASUREMENT SENSORS;
+                   TEXTILES; COMFORT;
+                   COTTON FABRIC; MEDICAL
+                   TEXTILE; PERSPIRATION
+NA NA              CONTROL; SENSOR; T-SHIRT
+                  HEALTH CARE; HOSPITALS;
+YUSUPOV           INFORMATION
+RM;POLONNIKOV     TECHNOLOGY; MEDICAL
+RI;KUVAKIN        APPLICATIONS; MEDICINE;
+VI;IVANOV         TELEMEDECINE;
+AY;SOTNIKOV AD    TELECOMMUNICATION
+
+
+
+
+                  DIGITAL CAMERAS;
+                  MUTISERVICE
+                  PROVISIONING PLATFORMS
+                  (MSPP); VIRTUAL
+                  CONCATENATION (VC);
+                  ALGORITHMS; CONSUMER
+                  ELECTRONICS; DIGITAL
+                  TELEVISION; HIGH
+                  DEFINITION TELEVISION;
+                  IMAGE COMPRESSION;
+                  TELEMEDICINE; TELEVISION
+                  BROADCASTING; VIDEO
+                  CAMERAS; VIDEO
+                  CONFERENCING; VIDEO ON     FUJITSU NETWORK
+                  DEMAND; VIDEODISKS;        COMMUNICATIONS,
+YUE W;GUTIERREZ   TELECOMMUNICATION          RICHARDSON, TX, UNITED
+D                 NETWORKS                   STATES
+
+
+
+
+                  GLOBAL SYSTEM FOR
+                  MOBILE COMMUNICATIONS;
+                  HEALTH CARE;
+                  INSTALLATION; MARKETING;
+                  MULTIMEDIA SYSTEMS;
+                  ORBITS; SALES; SATELLITE
+                  COMMUNICATION SYSTEMS;
+                  SWITCHING SYSTEMS;
+                  TECHNOLOGY TRANSFER;
+                  TELECOMMUNICATION
+                  TRAFFIC; ALCATEL (CO);
+                  CORE TRANSMISSION        ALCATEL NETWORK
+                  NETWORKS;                INTEGRATION DIVISION,
+                  GLOBALIZATION; TELE-     PARIS, FRANCE; HQ
+                  LEARNING;                MKTG. AND BUSINESS
+DE GRVE           TELECOMMUNICATION        DEVELOPMENT,
+M;OSSTYN E        SERVICES                 ZAVENTEM, BELGIUM
+           AUTOMOTIVE INDUSTRY;
+           CABLE TELEVISION
+           SYSTEMS; COMPOSITE
+           MATERIALS; FACSIMILE;
+           INDUSTRIAL ECONOMICS;
+           INTERNET; OSMOSIS
+           MEMBRANES; PUBLIC
+           POLICY; TELEMEDICINE;
+           COMPOSITES INDUSTRY;
+           REINFORCED PLASTICS;
+           COMPOSITES INDUSTRY;
+           CONSUMPTION; ECONOMIC OWENS CORNING INDIA
+           INFORMATION; PRODUCT  LTD, MUMBAI,
+SAXENA S   DEVELOPMENT           MAHARASHTRA, INDIA
+
+
+
+
+           DIAGNOSIS; DISTANCE
+           EDUCATION; HEALTH CARE;
+           IMAGE CODING; MULTIMEDIA
+           SYSTEMS; PERSONAL
+           COMPUTERS; SOCIAL
+           ASPECTS; SOCIETIES AND
+           INSTITUTIONS;
+           STANDARDIZATION;
+           STANDARDS; TECHNICAL
+           PRESENTATIONS;
+           TELEMEDICINE;
+           THERAPEUTICS;
+NA NA      TELECOMMUNICATION
+
+
+
+
+           LIFESAVING EQUIPMENT;
+           MILITARY
+           COMMUNICATIONS; SERVICE
+           VESSELS; TELEMEDICINE;
+           OCEAN-GOING VESSELS;
+WOOD T     SHIPS
+               ECONOMIC AND SOCIAL
+               DEVELOPMENT;
+               INFORMATION AND
+               COMMUNICATION
+               TECHNOLOGIES; DISTANCE
+NA NA          EDUCATION
+
+
+
+
+               NANOTECHNOLOGY;
+               PATIENT MONITORING;
+               SENSORS;
+               TELECOMMUNICATION
+               SYSTEMS; TELEMEDICINE;
+               TEXTILE-BASED
+               MEDICATION; TEXTILES;
+               SENSORS;
+               TELECOMMUNICATIONS;
+               TEXTILES; ENCAPSULATION;
+               GARMENT; MEDICAL         BPI, HOHENSTEINER
+               TEXTILE; MONITORING;     INSTITUTE, BNNIGHEIM D-
+HFER D         SENSOR                   74357, GERMANY
+
+
+
+
+               ELECTRONIC COMMERCE;
+               INFORMATION
+               TECHNOLOGY; LAWS AND
+               LEGISLATION;
+               TELECOMMUNICATION
+               SERVICES;
+               INFORMATIZATION;
+               INVESTMENTS;
+TARAMYKINA G   TELECOMMUNICATION
+               ANGIOGRAPHY; CAMERAS;
+               CHARGE COUPLED
+               DEVICES; HARD DISK
+               STORAGE; IMAGE
+               INTENSIFIERS (SOLID
+               STATE); IMAGE QUALITY;
+               MEDICAL IMAGING;
+               RADIOLOGY; TELEMEDICINE;
+               X RAY APPARATUS; DIGITAL
+               SUBTRACTION
+               ANGIOGRAPHY;
+               FLUOROSCOPY; IMAGING
+               CAMERA; MULTIPLE HIGH-
+               SPEED HARD DISK; REAL-
+               TIME DIGITAL RADIOGRAPHY
+               SYSTEM; X RAY IMAGE
+NA NA          INTENSIFIER; RADIOGRAPHY
+              CIRCUIT EMULATION;
+              SWITCHED VIRTUAL
+              CIRCUITS (SVC);
+              TELECOMMUNICATION
+              NETWORK
+              INTERCONNECTION;
+              TELECOMMUNICATION
+              NETWORK MANAGEMENT;
+              TELECOMMUNICATION
+              NETWORK SECURITY;
+              TELEMEDICINE;
+              TRANSMISSION CONTROL
+              PROTOCOL/INTERNET
+              PROTOCOL (TCP/IP);
+              BROADBAND NETWORKS;
+              CARRIER COMMUNICATION;
+              INDUSTRIAL RESEARCH;
+              INTERCONNECTION
+              NETWORKS; INTERNET;
+              MEDICAL APPLICATIONS;
+              NETWORK PROTOCOLS;
+              PETROLEUM INDUSTRY;
+              PROJECT MANAGEMENT;
+              SATELLITE LINKS; SECURITY
+              OF DATA; VIDEO SIGNAL
+              PROCESSING;               INFINITE GLOBAL
+              ASYNCHRONOUS TRANSFER INFRASTRUCTURE, LLC,
+BEERING D     MODE                      UNITED STATES
+
+
+
+
+              COMPUTER SIMULATION;
+              MICROPROCESSOR CHIPS;
+              ONLINE SEARCHING;
+              REMOTE CONTROL;
+              TELEMEDICINE PROVIDERS;
+              TELEPRESENCE; MEDICAL
+YENCHARIS L   COMPUTING
+              BIOMEDICAL ENGINEERING;
+              BROADBAND NETWORKS;
+              CARDIOLOGY; GATEWAYS
+              (COMPUTER NETWORKS);
+              HIGH DEFINITION
+              TELEVISION; IMAGE
+              COMMUNICATION SYSTEMS;
+              IMAGE QUALITY; VIDEO
+              CONFERENCING;
+              VOICE/DATA
+              COMMUNICATION SYSTEMS;
+              CARDIOVASCULAR DISEASE;
+              DEMOGRAPHICS; JAPAN;
+              TELEMEDICINE;
+              TELEPATHOLOGY; MEDICAL
+ROBINSON L    IMAGING
+
+
+
+
+              BANDWIDTH; COMPUTER
+              AIDED DIAGNOSIS;
+              COMPUTER
+              WORKSTATIONS;
+              COMPUTERIZED
+              TOMOGRAPHY; COSTS;
+              DATABASE SYSTEMS; IMAGE
+              COMMUNICATION SYSTEMS;
+              MEDICAL IMAGING; REAL
+              TIME SYSTEMS; STEREO
+              VISION; THREE
+              DIMENSIONAL COMPUTER
+              GRAPHICS; NASA;
+              TELEMEDICINE; VIRTUAL
+              COLLABORATIVE CLINIC;
+HAMIT F       VIRTUAL REALITY
+              CARDIOLOGY; DATA
+              COMMUNICATION SYSTEMS;
+              INDUSTRIAL ECONOMICS;
+              MARKETING; MEDICAL
+              IMAGING; MILITARY
+              COMMUNICATIONS; REAL
+              TIME SYSTEMS; SENSORS;
+              TELECOMMUNICATION
+              CABLES; ULTRASONIC
+              IMAGING; VIDEO SIGNAL
+              PROCESSING; WIDE AREA
+              NETWORKS; PICTURE
+              ARCHIVING AND
+              COMMUNICATIONS
+              SYSTEMS (PACS);
+              TELEMEDICINE; WORLD
+              WIDE WEB (WWW); IMAGE
+YENCHARIS L   PROCESSING
+                CAMERAS; COMPUTER
+                AIDED DIAGNOSIS; DIGITAL
+                SIGNAL PROCESSING;
+                DISEASE CONTROL; EYE
+                MOVEMENTS; IMAGING
+                SYSTEMS; INDUSTRIAL
+                ECONOMICS; LENSES;
+                MARKETING;
+                OPHTHALMOLOGY;
+                SENSORS; VISION; DIGITAL
+                IMAGING TECHNOLOGY;
+                TELEMEDICINE; MEDICAL
+HAMIT F         IMAGING
+
+
+
+
+                DEVELOPING COUNTRIES;
+                ECONOMIC AND SOCIAL
+                EFFECTS; INFORMATION
+                DISSEMINATION;
+                INFORMATION
+                TECHNOLOGY;
+                TELECOMMUNICATION
+                SERVICES; GLOBALIZATION; ALCATEL NETWORK
+DE GREVE        TELECOMMUNICATION        INTEGRATION DIV, PARIS,
+M;OSSTYN E      SYSTEMS                  FRANCE
+
+
+
+
+LING R
+
+
+
+
+                DIGITAL COMMUNICATION
+                SYSTEMS; DIGITAL SIGNAL
+                PROCESSING; RADIO
+                BROADCASTING;
+                TELEVISION
+                BROADCASTING; BACK
+                CHANNELS; MASS
+                MULTIPURPOSE
+                INTERACTIVITY;
+KRIVOSHEEV MI   TELECOMMUNICATION
+
+
+
+
+                BANDWIDTH; CAMERAS;
+                DIGITAL COMMUNICATION
+                SYSTEMS; IMAGE
+                PROCESSING; IMAGE
+                QUALITY;
+                TELECONFERENCING; USER
+                INTERFACES; VIDEO SIGNAL
+                PROCESSING; INTELLIGENT
+                COMMUNICATION CAMERA;
+                IMAGE COMMUNICATION
+LAHE D          SYSTEMS
+
+                                           GLOBAL TELEMEDIX, INC.,
+                                           LEXINGTON, MA, UNITED
+FRENCH C                                   STATES
+               CAMERAS; COST
+               EFFECTIVENESS; IMAGE
+               QUALITY; INDUSTRIAL
+               APPLICATIONS;
+               MONITORING; OPTICAL
+               RESOLVING POWER;
+               PROJECT MANAGEMENT;
+               TRANSCEIVERS; VISUAL
+               COMMUNICATION;
+               INDUSTRIAL APPLICATION
+               MACHINE DIAGNOSTICS;
+               REMOTE MONITORING;
+               TELEMEDICINE; VIDEO
+               RESPONSE SYSTEM (VRS);
+MACDONALD N    TELECONFERENCING
+
+
+
+
+               ASYNCHRONOUS TRANSFER
+               MODE; CARRIER
+               COMMUNICATION;
+               EDUCATION; HEALTH CARE;
+               TELEVISION TRANSMISSION;
+               DISTANCE LEARNING;
+               TELEMEDICINE SERVICES;
+               TELECOMMUNICATION
+PAPPALARDO D   SERVICES                 EAST COAST BUR
+
+
+
+
+               BROADBAND NETWORKS;
+               COMPUTER GRAPHICS;
+               COSTS; DIGITAL
+               COMMUNICATION SYSTEMS;
+               NETWORK PROTOCOLS;
+               TELECOMMUNICATION
+               SERVICES; TELEPHONE
+               SYSTEMS; DIGITAL
+               TELEPHONE SERVICE;
+               IMAGE EXCHANGE; PHONE NIWOT NETWORKS, INC,
+               BILLS; IMAGE           BOULDER, UNITED
+GIBSON B       COMMUNICATION SYSTEMS STATES
+
+
+
+
+               COMPUTER SOFTWARE;
+               HEALTH CARE; IMAGING
+               SYSTEMS; INFORMATION
+               TECHNOLOGY; MEDICAL
+               APPLICATIONS; MEDICAL
+               IMAGING; MODEMS; PATIENT
+               TREATMENT; PERSONAL
+               COMPUTERS;
+               TELECONFERENCING;
+               VISUAL COMMUNICATION;
+               VOICE/DATA
+               COMMUNICATION SYSTEMS;
+               HEALTHCARE INDUSTRY;
+               MULTIMEDIA; REMOTE
+               VIDEO EXAMINATION;       GLOBAL TELEMEDIX, INC,
+               TELEMEDICINE; IMAGE      LEXINGTON, UNITED
+FRENCH C       COMMUNICATION SYSTEMS STATES
+               ARTIFICIAL INTELLIGENCE;
+               COMPUTER APPLICATIONS;
+               COMPUTER NETWORKS;
+               COMPUTER SOFTWARE;
+               COMPUTER
+               WORKSTATIONS; DATA
+               TRANSFER; HEALTH CARE;
+               MEDICAL COMPUTING;
+               MEDICAL IMAGING; PATIENT
+               TREATMENT;
+               TELECONFERENCING;
+               CLINICAL SYSTEMS;
+               COMPUTER BASED AUDIT;
+               HEALTH COMPUTING;
+               HEALTH INFORMATION;
+               HEALTH SERVICE;
+               INTERNET; SCOTLAND;
+               SPEECH THERAPY;
+               TELEMEDICINE; TOUCH
+               SCREEN; INFORMATION
+JONES R        TECHNOLOGY
+           COLOR IMAGE PROCESSING;
+           COMPUTER
+           WORKSTATIONS; DATA
+           STRUCTURES;
+           INFORMATION
+           MANAGEMENT; MEDICAL
+           APPLICATIONS; MEDICAL
+           COMPUTING; VOICE/DATA
+           COMMUNICATION SYSTEMS;
+           CLIENT SERVER DATABASE;
+           DOCUMENT MANAGEMENT;
+           PATIENT KNOWLEDGE
+           SYSTEM; REAL TIME
+           ACQUISITION UNITS;
+           REMOTE ACCESS MODULE;
+           TELEMEDICINE; DATABASE DIGITAL AV, (KNOXVILLE,
+SUDMAN T   SYSTEMS                 UNITED STATES
+
